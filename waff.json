@@ -187,32 +187,5 @@
     "hls": null,
     "image": "http://ftpcontent4.worldnow.com/waff/alfa/Birminghamt.jpg",
     "aspectRatio": "16:9"
-  },
-  {
-    "title": "Jasper",
-    "id": "jasper",
-    "type": "image",
-    "sponsor": "Alfa",
-    "sponsorImage": null,
-    "sponsorBodyText": null,
-    "cameraBodyText": null,
-    "includeAd": true,
-    "ad": {
-      "target": "waff/web/sales-worldnow26/jasper",
-      "sizes": [
-        [
-          728,
-          90
-        ],
-        [
-          320,
-          50
-        ]
-      ]
-    },
-    "rtmp": null,
-    "hls": null,
-    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Jaspert.jpg",
-    "aspectRatio": "16:9"
   }
 ]
