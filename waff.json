@@ -1,0 +1,248 @@
+// 20180812051155
+// https://s3.us-east-2.amazonaws.com/raycom.media.test/skycam-testing/waff.json
+
+[
+  {
+    "title": "Space & Rocket Center",
+    "id": "space-and-rocket-center-alfa-camera",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/space-and-rocket-center-alfa-camera",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/SpaceCenter.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Athens",
+    "id": "athens",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/athens",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Athenst.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Huntsville",
+    "id": "huntsville",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/huntsville",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Huntsvillet.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Decatur",
+    "id": "decatur",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/decatur",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Decaturt.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Russellville",
+    "id": "russellville",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/russellville",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Russellvillet.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Gadsden",
+    "id": "gadsden",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/gadsden",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Gadsdent.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Birmingham",
+    "id": "birmingham",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/birmingham",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Birminghamt.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Jasper",
+    "id": "jasper",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/jasper",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Jaspert.jpg",
+    "aspectRatio": "16:9"
+  },
+  {
+    "title": "Montgomery",
+    "id": "montgomery",
+    "type": "image",
+    "sponsor": "Alfa",
+    "sponsorImage": null,
+    "sponsorBodyText": null,
+    "cameraBodyText": null,
+    "includeAd": true,
+    "ad": {
+      "target": "waff/web/sales-worldnow26/montgomery",
+      "sizes": [
+        [
+          728,
+          90
+        ],
+        [
+          320,
+          50
+        ]
+      ]
+    },
+    "rtmp": null,
+    "hls": null,
+    "image": "http://ftpcontent4.worldnow.com/waff/alfa/Montgomeryt.jpg",
+    "aspectRatio": "16:9"
+  }
+]
