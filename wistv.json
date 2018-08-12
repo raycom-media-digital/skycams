@@ -1,0 +1,137 @@
+[
+   {
+      "title":"Columbia",
+      "id":"columbia",
+      "type":"image",
+      "sponsor":"Great Southern Home",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Columbia camera is located on the WIS tower in downtown Columbia. Pointing to the west from 1111 Bull Street, the camera captures the historic South Carolina State House and part of Columbia skyline.</p>",
+      "cameraBodyText":"<p>The Columbia camera is located on the WIS tower in downtown Columbia. Pointing to the west from 1111 Bull Street, the camera captures the historic South Carolina State House and part of Columbia skyline.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wis/web/weather-cams/columbia",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpcontent4.worldnow.com/wistv/weathercameras/wis%20tower/wistower01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Lake Murray",
+      "id":"lake-murray",
+      "type":"image",
+      "sponsor":"Great Southern Home",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Lake Murray camera is located at Sunset Bay, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "cameraBodyText":"<p>The Lake Murray camera is located at Sunset Bay, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wis/web/weather-cams/lake-murray",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpcontent4.worldnow.com/wistv/weathercameras/lakemurray/lakemurray01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Orangeburg",
+      "id":"orangeburg",
+      "type":"image",
+      "sponsor":"Great Southern Home",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Orangeburg camera is located on the campus of Claflin University in Orangeburg. Pointing to the east from 400 Magnolia Street, the camera shows Claflin University's campus.</p>",
+      "cameraBodyText":"<p>The Orangeburg camera is located on the campus of Claflin University in Orangeburg. Pointing to the east from 400 Magnolia Street, the camera shows Claflin University's campus.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wis/web/weather-cams/orangeburg",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpcontent4.worldnow.com/wistv/weathercameras/orangeburg/orangeburg01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Sumter",
+      "id":"sumter",
+      "type":"image",
+      "sponsor":"Great Southern Home",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Sumter camera is located on the tallest building in downtown Sumter. Pointing to the west from 115 North Harvin Street, the camera shows downtown Sumter, including Tuomey Regional Medical Center and the Sumter Opera House.</p>",
+      "cameraBodyText":"<p>The Sumter camera is located on the tallest building in downtown Sumter. Pointing to the west from 115 North Harvin Street, the camera shows downtown Sumter, including Tuomey Regional Medical Center and the Sumter Opera House.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wis/web/weather-cams/sumter",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpcontent4.worldnow.com/wistv/weathercameras/sumter/sumter01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Newberry",
+      "id":"newberry",
+      "type":"image",
+      "sponsor":"Great Southern Home",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Newberry camera is located in downtown Newberry. Pointing to the west from 1303 Main Street, the camera captures a view of the city, including a glimpse of the Newberry Opera House.</p>",
+      "cameraBodyText":"<p>The Newberry camera is located in downtown Newberry. Pointing to the west from 1303 Main Street, the camera captures a view of the city, including a glimpse of the Newberry Opera House.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wis/web/weather-cams/newberry",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpcontent4.worldnow.com/wistv/weathercameras/newberry/newberry01.jpg",
+      "aspectRatio":"16:9"
+   }
+]

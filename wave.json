@@ -1,0 +1,272 @@
+[
+   {
+      "title":"Churchhill Downs - Louisville, KY",
+      "id":"churchhill-downs-louisville-ky",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/churchhill-downs-louisville-ky",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-09-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD9_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Bardstown, KY",
+      "id":"bardstown-ky",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Bardstown camera is located overlooking historic courthouse square. Pointing to the east, the camera captures the historic Nelson County Courthouse and square. The camera can also show weather conditions and the western sky down Stephen Foster Avenue. The camera is located atop of what is commonly referred to as the “Old Library”. The building first served as the Bardstown post office from 1914 until the 1960’s. The Nelson County Public Library called the building home from 1970 until 2005. Currently owned by Nelson County, the first floor of the two story building houses the gallery for Fine Arts Bardstown Society.</p>",
+      "cameraBodyText":"<p>The Bardstown camera is located overlooking historic courthouse square. Pointing to the east, the camera captures the historic Nelson County Courthouse and square. The camera can also show weather conditions and the western sky down Stephen Foster Avenue. The camera is located atop of what is commonly referred to as the “Old Library”. The building first served as the Bardstown post office from 1914 until the 1960’s. The Nelson County Public Library called the building home from 1970 until 2005. Currently owned by Nelson County, the first floor of the two story building houses the gallery for Fine Arts Bardstown Society.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/bardstown-ky",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-02-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD2_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Simpsonville, KY",
+      "id":"simpsonville-ky",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/simpsonville-ky",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-03-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD3_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Hubers Orchard & Winery - Starlight, IN",
+      "id":"hubers-orchard-and-winery-starlight-in",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>When in 1843, Simon Huber settled this Southern Indiana farm, he brought with him from Baden-Baden, Germany his years of experience in fruit growing and wine making. From its humble 80 acre beginning, the farm has expanded to over 600 acres. Simon's vision has been perpetuated through the 4th, 5th, 6th and 7th generation Huber's living and working on the farm.</p><p>In the vineyards, 18 different varieties of grapes are grown for the production of our varietals and blended wines. As Indiana's largest wine-grape producer, our vineyards will produce nearly 400,000 pounds of grapes per year under normal weather conditions.</p><p>Next to the restored 1938 barn is the underground Wine Cellar. Within our cellar, the old world art of winemaking combines with the most modern equipment and technology to manifest our magnificent vintages. Every bit of our hard work has paid off with over 900 gold, silver & bronze awards from wine competitions from all regions of the United States. This same quality has been passed to you. We sincerely hope you will plan a visit to Huber Winery to sample and enjoy our wines and hospitality.</p>",
+      "cameraBodyText":"<p>When in 1843, Simon Huber settled this Southern Indiana farm, he brought with him from Baden-Baden, Germany his years of experience in fruit growing and wine making. From its humble 80 acre beginning, the farm has expanded to over 600 acres. Simon's vision has been perpetuated through the 4th, 5th, 6th and 7th generation Huber's living and working on the farm.</p><p>In the vineyards, 18 different varieties of grapes are grown for the production of our varietals and blended wines. As Indiana's largest wine-grape producer, our vineyards will produce nearly 400,000 pounds of grapes per year under normal weather conditions.</p><p>Next to the restored 1938 barn is the underground Wine Cellar. Within our cellar, the old world art of winemaking combines with the most modern equipment and technology to manifest our magnificent vintages. Every bit of our hard work has paid off with over 900 gold, silver & bronze awards from wine competitions from all regions of the United States. This same quality has been passed to you. We sincerely hope you will plan a visit to Huber Winery to sample and enjoy our wines and hospitality.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/hubers-orchard-and-winery-starlight-in",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-04-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD4_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"The Harbours - Jeffersonville, IN",
+      "id":"the-harbours-jeffersonville-in",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/the-harbours-jeffersonville-in",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-1.wetmet.net/live/00-53-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD10_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Elizabethtown, KY",
+      "id":"elizabethtown-ky",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Elizabehtown camera is located atop Hardin Memorial Hospital on North Dixie Avenue. The camera is on the northeast corner of the hospital roof opposite the heliport. The camera can be moved to capture views of Freeman Lake, up and down bustling Dixie Highway, the western skies and toward historic downtown Elizabethtown. The hospital opened in 1954 is owned by the citizens of Hardin County. The hospital is the third largest employer in Hardin County with more than 1,600 employees.</p>",
+      "cameraBodyText":"<p>The Elizabehtown camera is located atop Hardin Memorial Hospital on North Dixie Avenue. The camera is on the northeast corner of the hospital roof opposite the heliport. The camera can be moved to capture views of Freeman Lake, up and down bustling Dixie Highway, the western skies and toward historic downtown Elizabethtown. The hospital opened in 1954 is owned by the citizens of Hardin County. The hospital is the third largest employer in Hardin County with more than 1,600 employees.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/elizabethtown-ky",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-06-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD6_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Paoli, IN",
+      "id":"paoli-in",
+      "type":"video",
+      "sponsor":"Paoli Peaks",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/paoli-in",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-07-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD7_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Kentucky Kingdom",
+      "id":"kentucky-kingdom",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>Kentucky Kingdom is on the grounds of the Kentucky Exposition Center, in the heart of Louisville at the intersection of I-65 and I-264. Follow the highway signs to the Kentucky Expo Center/Kentucky Kingdom and Hurricane Bay.</p>",
+      "cameraBodyText":"<p>Kentucky Kingdom is on the grounds of the Kentucky Exposition Center, in the heart of Louisville at the intersection of I-65 and I-264. Follow the highway signs to the Kentucky Expo Center/Kentucky Kingdom and Hurricane Bay.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/kentucky-kingdom",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-08-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD8_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Corydon, IN",
+      "id":"corydon-in",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>The Corydon, IN camera is located on top of the Harrison County Public Library. The two story former bank is located at the corner of Capitol and Beaver Streets. The camera can monitor the western sky, downtown and the first Capitol. Corydon became the Hoosier State’s first capital in 1816 until offices moved to Indianapolis in 1825. The park surrounding the historic site also hosts community events throughout the year.</p>",
+      "cameraBodyText":"<p>The Corydon, IN camera is located on top of the Harrison County Public Library. The two story former bank is located at the corner of Capitol and Beaver Streets. The camera can monitor the western sky, downtown and the first Capitol. Corydon became the Hoosier State’s first capital in 1816 until offices moved to Indianapolis in 1825. The park surrounding the historic site also hosts community events throughout the year.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/corydon-in",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-01-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD1_12.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Downtown Louiville",
+      "id":"downtown-louiville",
+      "type":"video",
+      "sponsor":"Kentucky Kingdom",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wave/web/sales-worldnow29/downtown-louiville",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/154-05-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/wave/wxmetrics/TBD5_12.jpg",
+      "aspectRatio":"16:9"
+   }
+]

@@ -1,0 +1,164 @@
+[
+   {
+      "title":"Lake Charles",
+      "id":"lake-charles",
+      "type":"video",
+      "sponsor":"Pedestal Bank",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>At Pedestal Bank, we have made a promise to those we serve to stand up for traditional values against a backdrop of modern banking.</p><p>We strive to elevate the overall banking experience, providing a higher level of service that meets our customers’ needs, exceeds their expectations, and reflects the communities where they live.</p><p>We expect to fulfill that promise, every day.</p><p>Born from the union of City Savings Bank & Trust, Coastal Commerce Bank, Kaplan State Bank, Teche Bank & Trust, and Tri-Parish Bank, we stand together as Pedestal Bank.</p>",
+      "cameraBodyText":"<p>At Pedestal Bank, we have made a promise to those we serve to stand up for traditional values against a backdrop of modern banking.</p><p>We strive to elevate the overall banking experience, providing a higher level of service that meets our customers’ needs, exceeds their expectations, and reflects the communities where they live.</p><p>We expect to fulfill that promise, every day.</p><p>Born from the union of City Savings Bank & Trust, Coastal Commerce Bank, Kaplan State Bank, Teche Bank & Trust, and Tri-Parish Bank, we stand together as Pedestal Bank.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/general001/lake-charles",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-01-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam1/LakeCharles01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"South Lake Charles",
+      "id":"south-lake-charles",
+      "type":"video",
+      "sponsor":"Port of Lake Charles",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>In a region swept up by unparalleled industrial expansion, the Port of Lake Charles serves as an economic engine to Southwest Louisiana. The Calcasieu Ship Channel is vital to area industry and is rapidly becoming one of America’s energy corridors.</p><p>Roughly 200 square miles of the Port District house facilities that produce 7.5 percent of the nation’s daily petroleum products consumption. With the deepwater navigation channel, cargo handling capabilities, three class 1 railroad companies and a short line railroad, Interstate highway systems and access to barge traffic connections, the Port was ranked by the U.S. Army Corps of Engineers as the 11th-busiest port district in the U.S., based on cargo tonnage.</p><p>The Port of Lake Charles is governed by a seven-member board of commissioners and comprises two marine terminals and over 5,000 acres of property zoned for industrial use, including an industrial park. For more information, call 337-439-3661 or visit <a href='http://www.portlc.com' target='_blank'>www.portlc.com</a>.",
+      "cameraBodyText":"<p>In a region swept up by unparalleled industrial expansion, the Port of Lake Charles serves as an economic engine to Southwest Louisiana. The Calcasieu Ship Channel is vital to area industry and is rapidly becoming one of America’s energy corridors.</p><p>Roughly 200 square miles of the Port District house facilities that produce 7.5 percent of the nation’s daily petroleum products consumption. With the deepwater navigation channel, cargo handling capabilities, three class 1 railroad companies and a short line railroad, Interstate highway systems and access to barge traffic connections, the Port was ranked by the U.S. Army Corps of Engineers as the 11th-busiest port district in the U.S., based on cargo tonnage.</p><p>The Port of Lake Charles is governed by a seven-member board of commissioners and comprises two marine terminals and over 5,000 acres of property zoned for industrial use, including an industrial park. For more information, call 337-439-3661 or visit <a href='http://www.portlc.com' target='_blank'>www.portlc.com</a>.",
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/station11/south-lake-charles",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-03-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam3/GoldenNugget01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Westlake",
+      "id":"westlake",
+      "type":"video",
+      "sponsor":"Port Aggregates, Inc.",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>Port Aggregates, Inc. started in 1979 as a subsidiary of a small construction company in Jennings, Louisiana, owned in part by Andrew Guinn, Sr., with the opening of an aggregate yard in Mermentau, Louisiana. In 1990, Port Aggregates, Inc. signed a supply agreement with Vulcan Materials Company and opened a yard in Westlake, Louisiana. Since that time, Port Aggregates, Inc. has become the largest independently owned aggregate supplier in Louisiana.</p><p>In 1999 the company opened a concrete precast plant in Jennings, Louisiana, to build precast bridges, pump decks, and oilfield platforms. In 2000, Port Aggregates, Inc. opened its first concrete plant in Jennings, Louisiana, and since then has become the largest independently owned concrete company in Louisiana, pouring in excess of 500,000 yards of concrete per year out of 18 Ready Mix plants, with 130 mixers, throughout Southwest Louisiana.</p><p>Port Aggregates, Inc., and its subsidiaries, PAI Pre Cast LLC, PAI Ready Mix LLC, and PAI Material Handling LLC, comprise twenty-four locations throughout the state, with more than 250 employees and 157 trucks.</p><p>Port Aggregates, Inc. is a major player in the mega projects taking place in the Lake Charles. They also service the Lafayette and Cenla markets with Aggregate and Ready Mix products. Its mission is to be the best construction material supplier in Louisiana, safely delivering quality products and service with honesty and integrity.</p>",
+      "cameraBodyText":"<p>Port Aggregates, Inc. started in 1979 as a subsidiary of a small construction company in Jennings, Louisiana, owned in part by Andrew Guinn, Sr., with the opening of an aggregate yard in Mermentau, Louisiana. In 1990, Port Aggregates, Inc. signed a supply agreement with Vulcan Materials Company and opened a yard in Westlake, Louisiana. Since that time, Port Aggregates, Inc. has become the largest independently owned aggregate supplier in Louisiana.</p><p>In 1999 the company opened a concrete precast plant in Jennings, Louisiana, to build precast bridges, pump decks, and oilfield platforms. In 2000, Port Aggregates, Inc. opened its first concrete plant in Jennings, Louisiana, and since then has become the largest independently owned concrete company in Louisiana, pouring in excess of 500,000 yards of concrete per year out of 18 Ready Mix plants, with 130 mixers, throughout Southwest Louisiana.</p><p>Port Aggregates, Inc., and its subsidiaries, PAI Pre Cast LLC, PAI Ready Mix LLC, and PAI Material Handling LLC, comprise twenty-four locations throughout the state, with more than 250 employees and 157 trucks.</p><p>Port Aggregates, Inc. is a major player in the mega projects taking place in the Lake Charles. They also service the Lafayette and Cenla markets with Aggregate and Ready Mix products. Its mission is to be the best construction material supplier in Louisiana, safely delivering quality products and service with honesty and integrity.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/general003/westlake",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-02-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam2/Westlake01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"DeRidder",
+      "id":"deridder",
+      "type":"video",
+      "sponsor":"Beauregard Health System",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>Since 1950, Beauregard Health System has served the healthcare needs of the citizens of Beauregard Parish and surrounding communities. As a 60-bed acute care facility, Beauregard Health System combines the latest medical technology with human warmth and concern.</p><p>Beauregard Health System is a not-for-profit hospital, committed to the continual improvement and expansion of healthcare in the interest of better serving the needs of the community. Beauregard Health System is accredited by the Joint Commission on the Accreditation of Healthcare Organizations. At Beauregard Health System, \"We Treat You Like Family!\"</p>",
+      "cameraBodyText":"<p>Since 1950, Beauregard Health System has served the healthcare needs of the citizens of Beauregard Parish and surrounding communities. As a 60-bed acute care facility, Beauregard Health System combines the latest medical technology with human warmth and concern.</p><p>Beauregard Health System is a not-for-profit hospital, committed to the continual improvement and expansion of healthcare in the interest of better serving the needs of the community. Beauregard Health System is accredited by the Joint Commission on the Accreditation of Healthcare Organizations. At Beauregard Health System, \"We Treat You Like Family!\"</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/general004/deridder",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-06-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam6/Deridder01.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Jennings",
+      "id":"jennings",
+      "type":"video",
+      "sponsor":"Hollier's Home Improvement",
+      "sponsorImage":null,
+      "sponsorBodyText":"<p>Hollier’s Home Improvement is a leading home remodeling and renovations contractor in Lafayette and the surrounding areas. We’re a fully licensed home improvement company that can provide you with professionally installed roofing, siding, windows, soffits & fascia, glass rooms and more.  We love Louisiana and have been serving this community for 20 years.</p><p>For the best remodeling contractor in the business, give us a call at 337-988-330 or click on our ad on this page.</p>",
+      "cameraBodyText":"<p>Hollier’s Home Improvement is a leading home remodeling and renovations contractor in Lafayette and the surrounding areas. We’re a fully licensed home improvement company that can provide you with professionally installed roofing, siding, windows, soffits & fascia, glass rooms and more.  We love Louisiana and have been serving this community for 20 years.</p><p>For the best remodeling contractor in the business, give us a call at 337-988-330 or click on our ad on this page.</p>",
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/general005/jennings",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-05-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam5/TBD501.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Cameron",
+      "id":"cameron",
+      "type":"video",
+      "sponsor":null,
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"kplc/web/general002/cameron",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":"https://wms-prod-2.wetmet.net/live/189-04-01/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kplc/Cam4/Cameron01.jpg",
+      "aspectRatio":"16:9"
+   }
+]

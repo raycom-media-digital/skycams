@@ -1,0 +1,58 @@
+[
+   {
+      "title":"Downtown Cape Girardeau",
+      "id":"downtown-cape-girardeau",
+      "type":"video",
+      "sponsor":"Saint Francis Healthcare System",
+      "sponsorImage":"http://kfvs12.images.worldnow.com/images/12956688_G.png",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":"//kfvs12.streamguys1.com/live/cam2.stream/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kfvs12/weather/cameras/tower.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Cape Girardeau West",
+      "id":"cape-girardeau-west",
+      "type":"video",
+      "sponsor":"Saint Francis Healthcare System",
+      "sponsorImage":"http://kfvs12.images.worldnow.com/images/12956688_G.png",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":"//kfvs12.streamguys1.com/live/cam1.stream/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kfvs12/weather/cameras/capewest.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Sikeston",
+      "id":"sikeston",
+      "type":"video",
+      "sponsor":"Irrigation Central",
+      "sponsorImage":"http://kfvs12.images.worldnow.com/images/11320223_G.png",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":"//kfvs12.streamguys1.com/live/cam3.stream/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kfvs12/weather/cameras/Sikeston-cam-new.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Poplar Bluff",
+      "id":"poplar-bluff",
+      "type":"video",
+      "sponsor":"&nbsp;",
+      "sponsorImage":"http://kfvs12.images.worldnow.com/images/12956688_G.png",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":"//kfvs12.streamguys1.com/live/cam4.stream/playlist.m3u8",
+      "image":"http://ftpcontent4.worldnow.com/kfvs12/weather/cameras/poplar%20bluff.jpg",
+      "aspectRatio":"16:9"
+   }
+]

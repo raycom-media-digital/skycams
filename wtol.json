@@ -1,0 +1,58 @@
+[
+   {
+      "title":"Fifth Third Bank",
+      "id":"fifth-third-bank",
+      "type":"image",
+      "sponsor":null,
+      "sponsorImage":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/logos/fifththird-logo.jpg",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/fifththird/snap_c1.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Mercy Health, at Levis Commons",
+      "id":"mercy-health-at-levis-commons",
+      "type":"image",
+      "sponsor":null,
+      "sponsorImage":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/logos/levis-logo.jpg",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/mercy/snap_c1.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"South Bass Island",
+      "id":"south-bass-island",
+      "type":"image",
+      "sponsor":"Jet Express",
+      "sponsorImage":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/logos/putinbay-logo.jpg",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/jetexpress/snap_c1.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"St. Luke's Hospital",
+      "id":"st-luke's-hospital",
+      "type":"image",
+      "sponsor":null,
+      "sponsorImage":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/logos/stlukes-logo.jpg",
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":false,
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/stlukes/snap_c1.jpg",
+      "aspectRatio":"16:9"
+   }
+]

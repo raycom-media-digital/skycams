@@ -1,0 +1,29 @@
+[
+   {
+      "title":"South Bass Island",
+      "id":"south-bass-island",
+      "type":"image",
+      "sponsor":"Jet Express",
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"woio/web/news/south-bass-island",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/jetexpress/snap_c1.jpg",
+      "aspectRatio":"16:9"
+   }
+]
