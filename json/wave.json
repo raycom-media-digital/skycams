@@ -1,32 +1,5 @@
 [
    {
-      "title":"Churchhill Downs - Louisville, KY",
-      "id":"churchhill-downs-louisville-ky",
-      "type":"video",
-      "sponsor":"Kentucky Kingdom",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wave/web/sales-worldnow29/churchhill-downs-louisville-ky",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":"https://wms-prod-2.wetmet.net/live/154-09-01/playlist.m3u8",
-      "image":"http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD9_12.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"Bardstown, KY",
       "id":"bardstown-ky",
       "type":"video",
