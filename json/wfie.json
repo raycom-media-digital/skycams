@@ -30,7 +30,7 @@
         "title":"Princeton",
         "id":"princeton",
         "type":"video",
-        "sponsor":"&nbsp;",
+        "sponsor":"Gary's Body Shop",
         "sponsorImage":null,
         "sponsorBodyText":null,
         "cameraBodyText":null,
@@ -51,60 +51,6 @@
         "rtmp":"rtmp://wfietv.streamguys1.com:80/live/princeton.stream",
         "hls":"//wfietv.streamguys1.com/live/princeton.stream/playlist.m3u8",
         "image":"https://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/Princeton.jpg",
-        "aspectRatio":"16:9"
-    },
-    {
-        "title":"Henderson Bridge",
-        "id":"henderson-bridge",
-        "type":"video",
-        "sponsor":"&nbsp;",
-        "sponsorImage":null,
-        "sponsorBodyText":null,
-        "cameraBodyText":null,
-        "includeAd":true,
-        "ad":{
-            "target":"wfie/web/sales-worldnow7/henderson-bridge",
-            "sizes":[
-                [
-                    728,
-                    90
-                ],
-                [
-                    320,
-                    50
-                ]
-            ]
-        },
-        "rtmp":"rtmp://wfietv.streamguys1.com:80/live/Elliscam.stream",
-        "hls":"//wfietv.streamguys1.com/live/Elliscam.stream/playlist.m3u8",
-        "image":"https://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/Henderson%20Bridge.JPG",
-        "aspectRatio":"16:9"
-    },
-    {
-        "title":"Evansville Regional Airport",
-        "id":"evansville-regional-airport",
-        "type":"video",
-        "sponsor":"Evansville Regional Airport",
-        "sponsorImage":null,
-        "sponsorBodyText":null,
-        "cameraBodyText":null,
-        "includeAd":true,
-        "ad":{
-            "target":"wfie/web/sales-worldnow7/evansville-regional-airport",
-            "sizes":[
-                [
-                    728,
-                    90
-                ],
-                [
-                    320,
-                    50
-                ]
-            ]
-        },
-        "rtmp":"sales-worldnow7",
-        "hls":"//wfietv.streamguys1.com/live/EvansvilleAirport.stream/playlist.m3u8",
-        "image":"http://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/EvansvilleAirport.jpg",
         "aspectRatio":"16:9"
     },
     {
@@ -192,7 +138,7 @@
         "title":"Westside Evansville",
         "id":"westside-evansville",
         "type":"video",
-        "sponsor":"University of Southern Indiana",
+        "sponsor":"D-Patrick Honda",
         "sponsorImage":null,
         "sponsorBodyText":null,
         "cameraBodyText":null,
