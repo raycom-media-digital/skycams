@@ -23,7 +23,7 @@
         },
         "rtmp":"rtmp://wfietv.streamguys1.com/live/HadiShrinersCam.stream",
         "hls":"//wfietv.streamguys1.com/live/HadiShrinersCam.stream/playlist.m3u8",
-        "image":"http://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/evansvilleRiverfront.jpg",
+        "image":"http://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/evansvilleRiverfront.jpg",
         "aspectRatio":"16:9"
     },
     {
@@ -131,7 +131,7 @@
         },
         "rtmp":"rtmp://wfietv.streamguys1.com:80/live/owensboro.stream",
         "hls":"//wfietv.streamguys1.com/live/owensboro.stream/playlist.m3u8",
-        "image":"http://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/Owensboro.jpg",
+        "image":"http://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Owensboro.jpg",
         "aspectRatio":"16:9"
     },
     {
@@ -158,7 +158,7 @@
         },
         "rtmp":"rtmp://wfietv.streamguys1.com:80/live/usi.stream",
         "hls":"//wfietv.streamguys1.com/live/usi.stream/playlist.m3u8",
-        "image":"http://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/Westside.jpg",
+        "image":"http://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Westside.jpg",
         "aspectRatio":"16:9"
     }
 ]
