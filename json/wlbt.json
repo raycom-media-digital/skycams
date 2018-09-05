@@ -23,7 +23,7 @@
       },
       "rtmp":"rtmp://wlbt-wowza.streamguys1.com:80/live/wlbt_mccomb.stream",
       "hls":"//wlbt-wowza.streamguys1.com/live/wlbt_mccomb.stream/playlist.m3u8",
-      "image":"???",
+      "image":"http://www.wlbt.com/resizer/4hyf3rUDiSFmH4OEVPWoMdB6f_Q=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4IECCACPQRCE5B2LYMPZ5TI4RM.png",
       "aspectRatio":"16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp":"rtmp://wlbt-wowza.streamguys1.com:80/live/wlbt_tower.stream",
       "hls":"//wlbt-wowza.streamguys1.com/live/wlbt_tower.stream/playlist.m3u8",
-      "image":"???",
+      "image":"http://www.wlbt.com/resizer/4hyf3rUDiSFmH4OEVPWoMdB6f_Q=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4IECCACPQRCE5B2LYMPZ5TI4RM.png",
       "aspectRatio":"16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp":"rtmp://wlbt-wowza.streamguys1.com:80/live/wlbt_downtown.stream",
       "hls":"//wlbt-wowza.streamguys1.com/live/wlbt_downtown.stream/playlist.m3u8",
-      "image":"???",
+      "image":"http://www.wlbt.com/resizer/4hyf3rUDiSFmH4OEVPWoMdB6f_Q=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4IECCACPQRCE5B2LYMPZ5TI4RM.png",
       "aspectRatio":"16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp":"rtmp://wlbt-wowza.streamguys1.com/live/natchez.stream",
       "hls":"//wlbt-wowza.streamguys1.com/live/natchez.stream/playlist.m3u8",
-      "image":"???",
+      "image":"http://www.wlbt.com/resizer/4hyf3rUDiSFmH4OEVPWoMdB6f_Q=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4IECCACPQRCE5B2LYMPZ5TI4RM.png",
       "aspectRatio":"16:9"
    },
    {
@@ -131,7 +131,7 @@
       },
       "rtmp":"rtmp://wlbt-wowza.streamguys1.com:80/live/wlbt.stream",
       "hls":"//wlbt-wowza.streamguys1.com/live/wlbt.stream/playlist.m3u8",
-      "image":"???",
+      "image":"http://www.wlbt.com/resizer/4hyf3rUDiSFmH4OEVPWoMdB6f_Q=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4IECCACPQRCE5B2LYMPZ5TI4RM.png",
       "aspectRatio":"16:9"
    }
 ]
