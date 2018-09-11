@@ -1,0 +1,272 @@
+[
+	{
+		"title": "Congress/Fifth Avenue",
+		"id": "congress/fifth-avenue",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/congress/fifth-avenue",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSPM/TCSPM_s.jpg?rnd=15-041320161601",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Speedway/Alvernon",
+		"id": "speedway/alvernon",
+		"type": "image",
+		"sponsor": "Air Tropics LLC",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/speedway/alvernon",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSFC/TCSFC_s.jpg?rnd=15-101520131801",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Casino Del Sol",
+		"id": "casino-del-sol",
+		"type": "image",
+		"sponsor": "Casino Del Sol",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/casino-del-sol",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSNW/TCSNW_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Hon-Dah Resort & Casino",
+		"id": "hon-dah-resort-and-casino",
+		"type": "image",
+		"sponsor": "Hon-Dah Resort Casino & Conference Center",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/hon-dah-resort-and-casino",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/PNTHD/PNTHD_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Robinson Magnet School",
+		"id": "robinson-magnet-school",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/robinson-magnet-school",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSNR/TCSNR_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Fourth Avenue",
+		"id": "fourth-avenue",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/fourth-avenue",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSCV/TCSCV_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Downtown Tucson",
+		"id": "downtown-tucson",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/downtown-tucson",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCFTH/TCFTH_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Flowing Wells High School",
+		"id": "flowing-wells-high-school",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/flowing-wells-high-school",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSNF/TCSNF_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Saint Elizabeth Ann Secton School",
+		"id": "saint-elizabeth-ann-secton-school",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/saint-elizabeth-ann-secton-school",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/TCSNS/TCSNS_s.jpg?rnd=15-092020130800",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Coolidge High School",
+		"id": "coolidge-high-school",
+		"type": "image",
+		"sponsor": "&nbsp;",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kold/web/weather-cams/coolidge-high-school",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://wwc.instacam.com/instacamimg/CLDGE/CLDGE_s.jpg?rnd=15-091820130902",
+		"aspectRatio": "16x9"
+	}
+]
