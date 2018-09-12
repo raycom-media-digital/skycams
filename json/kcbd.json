@@ -1,16 +1,16 @@
 [
    {
-      "title":"KCBD First Alert Tower in Lubbock",
-      "id":"kcbd-first-alert-tower-in-lubbock",
-      "type":"image",
-      "sponsor":"&nbsp;",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"kcbd/web/weather-cams/kcbd-first-alert-tower-in-lubbock",
-         "sizes":[
+      "title": "KCBD First Alert Tower in Lubbock",
+      "id": "kcbd-first-alert-tower-in-lubbock",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kcbd/web/weather-cams/kcbd-first-alert-tower-in-lubbock",
+         "sizes": [
             [
                728,
                90
@@ -21,23 +21,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kcbd/kcbd-tower-cams/KCBD.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/KCBD.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Littlefield",
-      "id":"littlefield",
-      "type":"image",
-      "sponsor":"BE Implement",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"kcbd/web/weather-cams/littlefield",
-         "sizes":[
+      "title": "Lubbock",
+      "id": "lubbock",
+      "type": "image",
+      "sponsor": "First Bank and Trust",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kcbd/web/weather-cams/lubbock",
+         "sizes": [
             [
                728,
                90
@@ -48,9 +48,36 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kcbd/kcbd-tower-cams/BELittlefield.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/FBKAT_l.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Littlefield",
+      "id": "littlefield",
+      "type": "image",
+      "sponsor": "South Plains Implement",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kcbd/web/weather-cams/littlefield",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/BELittlefield.jpg",
+      "aspectRatio": "16:9"
    }
 ]
