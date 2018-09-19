@@ -23,7 +23,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kfda/Timelapse/10.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kfda/Timelapse/10.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kfda/Timelapse/FB10.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kfda/Timelapse/FB10.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kfda/Timelapse/G10.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kfda/Timelapse/G10.jpg",
       "aspectRatio":"16:9"
    }
 ]
