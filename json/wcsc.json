@@ -1,0 +1,191 @@
+[
+	{
+		"title": "Live 5 MUSC Rutledge Tower",
+		"id": "live-5-musc-rutledge-tower",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-musc-rutledge-tower",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Rutledge/WCSCRutledge.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Charleston Harbor Fish House",
+		"id": "live-5-charleston-harbor-fish-house",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-charleston-harbor-fish-house",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/FishHouse/WCSCFishHouse.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Optical Impressions atop the Holiday Inn",
+		"id": "live-5-optical-impressions-atop-the-holiday-inn",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-optical-impressions-atop-the-holiday-inn",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/HolidayInn/WCSCHolidayInn.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Gerald's Tires SC Aquarium",
+		"id": "live-5-gerald's-tires-sc-aquarium",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-gerald's-tires-sc-aquarium",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Aquarium/WCSCAquarium.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Santee Cooper",
+		"id": "live-5-santee-cooper",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-santee-cooper",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/SanteeCooper/WCSCSanteeCooper.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Charleston Chestnut Mansion",
+		"id": "live-5-charleston-chestnut-mansion",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-charleston-chestnut-mansion",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Chestnut/WCSCChestnut.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Ingevity",
+		"id": "live-5-ingevity",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-ingevity",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Ingevity/WCSCIngevity.jpg",
+		"aspectRatio": "16:9"
+	}
+]
