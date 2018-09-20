@@ -1,0 +1,191 @@
+[
+	{
+		"title": "Waco/Woodway/Hewitt",
+		"id": "waco/woodway/hewitt",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/waco/woodway/hewitt",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/WacoWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Temple",
+		"id": "temple",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/temple",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/TempleWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Killeen",
+		"id": "killeen",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/killeen",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/KilleenWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Bryan/College Station",
+		"id": "bryan/college-station",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/bryan/college-station",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/BryanWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Harker Heights",
+		"id": "harker-heights",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/harker-heights",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/HarkerHeightsWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Copperas Cove",
+		"id": "copperas-cove",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/copperas-cove",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/CooperasCoveWxCam.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Downtown Waco",
+		"id": "downtown-waco",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "kxxv/web/weather/cams/downtown-waco",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://ftpcontent6.worldnow.com/kxxv/weathercameras/DownTownWxCam.jpg",
+		"aspectRatio": "16:9"
+	}
+]
