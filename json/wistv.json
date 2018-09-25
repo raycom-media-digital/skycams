@@ -106,32 +106,5 @@
       "hls": null,
       "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/sumter/sumter01.jpg",
       "aspectRatio": "16:9"
-   },
-   {
-      "title": "Newberry",
-      "id": "newberry",
-      "type": "image",
-      "sponsor": "Great Southern Homes",
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>The Newberry camera is located in downtown Newberry. Pointing to the west from 1303 Main Street, the camera captures a view of the city, including a glimpse of the Newberry Opera House.</p>",
-      "cameraBodyText": "<p>The Newberry camera is located in downtown Newberry. Pointing to the west from 1303 Main Street, the camera captures a view of the city, including a glimpse of the Newberry Opera House.</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wistv/web/weather/cams/newberry",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/newberry/newberry01.jpg",
-      "aspectRatio": "16:9"
    }
 ]
