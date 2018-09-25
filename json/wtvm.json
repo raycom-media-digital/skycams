@@ -77,7 +77,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wtvm/cams/GOVCENTER/GOVCENTER.jpeg",
+      "image":"http://webpubcontent.raycommedia.com/wtvm/cams/GOVCENTER/GOVCENTER.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wtvm/cams/STFRANCIS/STFRANCIS.jpeg",
+      "image":"http://webpubcontent.raycommedia.com/wtvm/cams/STFRANCIS/STFRANCIS.jpg",
       "aspectRatio":"16:9"
    },
    {
