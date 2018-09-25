@@ -1,0 +1,29 @@
+[
+	{
+		"title": "University of Southern Mississippi",
+		"id": "university-of-southern-mississippi",
+		"type": "image",
+		"sponsor": "Mississippi Power",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/cams/university-of-southern-mississippi",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wdam/USM_SKYCAM01.jpg",
+		"aspectRatio": "16x9"
+	}
+]
