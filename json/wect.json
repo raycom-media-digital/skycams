@@ -1,16 +1,16 @@
 [
    {
-      "title":"Wrightsville Beach Camera",
-      "id":"wrightsville-beach-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/wrightsville-beach-camera",
-         "sizes":[
+      "title": "Wrightsville Beach Camera",
+      "id": "wrightsville-beach-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/wrightsville-beach-camera",
+         "sizes": [
             [
                728,
                90
@@ -21,23 +21,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_1Beach.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/e7f3a994/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_1Beach.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"U.S.S. North Carolina Camera",
-      "id":"uss-north-carolina-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/uss-north-carolina-camera",
-         "sizes":[
+      "title": "Downtown Wilmington Camera",
+      "id": "downtown-wilmington-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/downtown-wilmington-camera",
+         "sizes": [
             [
                728,
                90
@@ -48,23 +48,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_2Battle.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/5d163652/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_2Battle.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Surf City Camera",
-      "id":"surf-city-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/surf-city-camera",
-         "sizes":[
+      "title": "Surf City Camera",
+      "id": "surf-city-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/surf-city-camera",
+         "sizes": [
             [
                728,
                90
@@ -75,23 +75,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_3Surf.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/636f8ecd/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_3Surf.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Whiteville Camera",
-      "id":"whiteville-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/whiteville-camera",
-         "sizes":[
+      "title": "Whiteville Camera",
+      "id": "whiteville-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/whiteville-camera",
+         "sizes": [
             [
                728,
                90
@@ -102,23 +102,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_4White.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/eeb03ef1/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_4White.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Ocean Isle Beach Camera",
-      "id":"ocean-isle-beach-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/ocean-isle-beach-camera",
-         "sizes":[
+      "title": "Ocean Isle Beach Camera",
+      "id": "ocean-isle-beach-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/ocean-isle-beach-camera",
+         "sizes": [
             [
                728,
                90
@@ -129,23 +129,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_5OIB.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/94cdbf31/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_5OIB.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Southport Camera",
-      "id":"southport-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/southport-camera",
-         "sizes":[
+      "title": "Southport Camera",
+      "id": "southport-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/southport-camera",
+         "sizes": [
             [
                728,
                90
@@ -156,23 +156,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_6South.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/c66f774e/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_6South.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Elizabethtown Camera",
-      "id":"elizabethtown-camera",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wect/web/news-livestream/elizabethtown-camera",
-         "sizes":[
+      "title": "Elizabethtown Camera",
+      "id": "elizabethtown-camera",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/elizabethtown-camera",
+         "sizes": [
             [
                728,
                90
@@ -183,9 +183,9 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/wect/WSI_Etown.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/ee360919/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_Etown.jpg",
+      "aspectRatio": "16:9"
    }
 ]
