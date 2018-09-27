@@ -54,33 +54,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Surf City Camera",
-      "id": "surf-city-camera",
-      "type": "video",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "wect/web/station42/surf-city-camera",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/636f8ecd/playlist.m3u8",
-      "image": "//webpubcontent.raycommedia.com/wect/WSI_3Surf.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "Whiteville Camera",
       "id": "whiteville-camera",
       "type": "video",
