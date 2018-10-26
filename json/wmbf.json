@@ -50,8 +50,8 @@
          ]
       },
       "rtmp": null,
-      "hls": "//s36.ipcamlive.com/streams/245bd07bb52f3de60/stream.m3u8",
-      "image": "http://s36.ipcamlive.com/streams/245bd07bb52f3de60/snapshot.jpg",
+      "hls": "//s36.ipcamlive.com/streams/245bd346a581a7ca7/stream.m3u8",
+      "image": "//s36.ipcamlive.com/streams/245bd346a581a7ca7/snapshot.jpg",
       "aspectRatio": "16:9"
    },
    {
