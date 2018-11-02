@@ -23,7 +23,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kwes/weather/midlandboa.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kwes/weather/midlandboa.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kwes/weather/odessaskycam.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kwes/weather/odessaskycam.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kwes/weather/claydestaskycam.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kwes/weather/claydestaskycam.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpcontent4.worldnow.com/kwes/weather/bigspringskycam.jpg",
+      "image":"http://webpubcontent.raycommedia.com/kwes/weather/bigspringskycam.jpg",
       "aspectRatio":"16:9"
    }
 ]
