@@ -52,7 +52,7 @@
       "rtmp": null,
       "hls": "//s36.ipcamlive.com/streams/245be4661f4ed8c10/stream.m3u8",
       "image": "//webpubcontent.raycommedia.com/wmbf/cameras/Tin-Roof.jpg",
-      "aspectRatio": "16:9"
+      "aspectRatio": "4:3"
    },
    {
       "title": "Florence, SC",
