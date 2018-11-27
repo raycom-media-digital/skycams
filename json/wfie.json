@@ -27,10 +27,37 @@
         "aspectRatio":"16:9"
     },
     {
+        "title":"Princeton",
+        "id":"princeton",
+        "type":"video",
+        "sponsor":"Gary's Body Shop",
+        "sponsorImage":null,
+        "sponsorBodyText":null,
+        "cameraBodyText":null,
+        "includeAd":true,
+        "ad":{
+            "target":"wfie/web/sales-worldnow7/princeton",
+            "sizes":[
+                [
+                    728,
+                    90
+                ],
+                [
+                    320,
+                    50
+                ]
+            ]
+        },
+        "rtmp":"rtmp://wfietv.streamguys1.com:80/live/princeton.stream",
+        "hls":"//wfietv.streamguys1.com/live/princeton.stream/playlist.m3u8",
+        "image":"https://ftpcontent4.worldnow.com/wfie/weathercams/thumbs/Henderson%20Bridge.JPG",
+        "aspectRatio":"16:9"
+    },
+    {
         "title":"Twin Bridges",
         "id":"twin-bridges",
         "type":"video",
-        "sponsor":"Gary's Body Shop",
+        "sponsor":"&nbsp",
         "sponsorImage":null,
         "sponsorBodyText":null,
         "cameraBodyText":null,
