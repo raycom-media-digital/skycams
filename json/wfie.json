@@ -50,7 +50,7 @@
         },
         "rtmp":"rtmp://wfietv.streamguys1.com:80/live/princeton.stream",
         "hls":"//wfietv.streamguys1.com/live/princeton.stream/playlist.m3u8",
-        "image":"https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Princeton.JPG",
+        "image":"https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Princeton.jpg",
         "aspectRatio":"16:9"
     },
     {
@@ -77,7 +77,7 @@
         },
         "rtmp":"rtmp://wfietv.streamguys1.com:80/live/Elliscam.stream",
         "hls":"//wfietv.streamguys1.com/live/Elliscam.stream/playlist.m3u8",
-        "image":"https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Henderson%20Bridge.JPG",
+        "image":"https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Henderson%20Bridge.jpg",
         "aspectRatio":"16:9"
     },
     {
