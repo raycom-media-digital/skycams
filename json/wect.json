@@ -1,7 +1,7 @@
 [
    {
-      "title": "Wrightsville Beach Camera",
-      "id": "wrightsville-beach-camera",
+      "title": "Wrightsville Beach Live Cam",
+      "id": "wrightsville-beach-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -9,7 +9,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/wrightsville-beach-camera",
+         "target": "wect/web/station42/wrightsville-beach-live-cam",
          "sizes": [
             [
                728,
@@ -27,8 +27,8 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Downtown Wilmington Camera",
-      "id": "downtown-wilmington-camera",
+      "title": "Downtown Wilmington Live Cam",
+      "id": "downtown-wilmington-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -36,7 +36,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/downtown-wilmington-camera",
+         "target": "wect/web/station42/downtown-wilmington-live-cam",
          "sizes": [
             [
                728,
@@ -54,8 +54,8 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Whiteville Camera",
-      "id": "whiteville-camera",
+      "title": "Whiteville Live Cam",
+      "id": "whiteville-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -63,7 +63,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/whiteville-camera",
+         "target": "wect/web/station42/whiteville-live-cam",
          "sizes": [
             [
                728,
@@ -81,8 +81,8 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Ocean Isle Beach Camera",
-      "id": "ocean-isle-beach-camera",
+      "title": "Ocean Isle Beach Live Cam",
+      "id": "ocean-isle-beach-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -90,7 +90,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/ocean-isle-beach-camera",
+         "target": "wect/web/station42/ocean-isle-beach-live-cam",
          "sizes": [
             [
                728,
@@ -108,8 +108,8 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Southport Camera",
-      "id": "southport-camera",
+      "title": "Southport Live Cam",
+      "id": "southport-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -117,7 +117,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/southport-camera",
+         "target": "wect/web/station42/southport-live-cam",
          "sizes": [
             [
                728,
@@ -135,8 +135,8 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Elizabethtown Camera",
-      "id": "elizabethtown-camera",
+      "title": "Elizabethtown Live Cam",
+      "id": "elizabethtown-live-cam",
       "type": "video",
       "sponsor": null,
       "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
@@ -144,7 +144,7 @@
       "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wect/web/station42/elizabethtown-camera",
+         "target": "wect/web/station42/elizabethtown-live-cam",
          "sizes": [
             [
                728,
