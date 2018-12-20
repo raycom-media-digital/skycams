@@ -1,16 +1,16 @@
 [
    {
-      "title":"A.T. Allen Elementary - Concord, NC",
-      "id":"at-allen-elementary-concord-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/at-allen-elementary-concord-nc",
-         "sizes":[
+      "title": "A.T. Allen Elementary - Concord, NC",
+      "id": "at-allen-elementary-concord-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/at-allen-elementary-concord-nc",
+         "sizes": [
             [
                728,
                90
@@ -21,23 +21,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CNCRA/CNCRA_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/CNCRA/CNCRA_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Central Piedmont Community College - Charlotte, NC",
-      "id":"central-piedmont-community-college-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/central-piedmont-community-college-charlotte-nc",
-         "sizes":[
+      "title": "Central Piedmont Community College - Charlotte, NC",
+      "id": "central-piedmont-community-college-charlotte-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/central-piedmont-community-college-charlotte-nc",
+         "sizes": [
             [
                728,
                90
@@ -48,23 +48,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRCP/CHRCP_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/CHRCP/CHRCP_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Heath Springs Elementary - Heath Springs, SC",
-      "id":"heath-springs-elementary-heath-springs-sc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/heath-springs-elementary-heath-springs-sc",
-         "sizes":[
+      "title": "Heath Springs Elementary - Heath Springs, SC",
+      "id": "heath-springs-elementary-heath-springs-sc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/heath-springs-elementary-heath-springs-sc",
+         "sizes": [
             [
                728,
                90
@@ -75,23 +75,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/HTHSP/HTHSP_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/HTHSP/HTHSP_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Lansdowne Elementary - Charlotte, NC",
-      "id":"lansdowne-elementary-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/lansdowne-elementary-charlotte-nc",
-         "sizes":[
+      "title": "Lansdowne Elementary - Charlotte, NC",
+      "id": "lansdowne-elementary-charlotte-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/lansdowne-elementary-charlotte-nc",
+         "sizes": [
             [
                728,
                90
@@ -102,23 +102,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRLW/CHRLW_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/CHRLW/CHRLW_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Liberty Drive Elementary - Thomasville, NC",
-      "id":"liberty-drive-elementary-thomasville-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/liberty-drive-elementary-thomasville-nc",
-         "sizes":[
+      "title": "Liberty Drive Elementary - Thomasville, NC",
+      "id": "liberty-drive-elementary-thomasville-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/liberty-drive-elementary-thomasville-nc",
+         "sizes": [
             [
                728,
                90
@@ -129,23 +129,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/THMSD/THMSD_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/THMSD/THMSD_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Metro School - Charlotte, NC",
-      "id":"metro-school-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/metro-school-charlotte-nc",
-         "sizes":[
+      "title": "UNC Charlotte - Charlotte, NC",
+      "id": "unc-charlotte-charlotte-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/unc-charlotte-charlotte-nc",
+         "sizes": [
             [
                728,
                90
@@ -156,23 +156,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRMS/CHRMS_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/CHRLG/CHRLG_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Providence Day School - Charlotte, NC",
-      "id":"providence-day-school-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/providence-day-school-charlotte-nc",
-         "sizes":[
+      "title": "Town of Ayrsley - Charlotte, NC",
+      "id": "town-of-ayrsley-charlotte-nc",
+      "type": "image",
+      "sponsor": "Scott Clark Honda",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/town-of-ayrsley-charlotte-nc",
+         "sizes": [
             [
                728,
                90
@@ -183,23 +183,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRTT/CHRTT_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/CHRHT/CHRHT_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Providence Spring Elementary - Charlotte, NC",
-      "id":"providence-spring-elementary-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/providence-spring-elementary-charlotte-nc",
-         "sizes":[
+      "title": "Landsdowne Elementary",
+      "id": "landsdowne-elementary",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/landsdowne-elementary",
+         "sizes": [
             [
                728,
                90
@@ -210,23 +210,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRPV/CHRPV_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/CHRLW/CHRLW_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"UNC Charlotte - Charlotte, NC",
-      "id":"unc-charlotte-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/unc-charlotte-charlotte-nc",
-         "sizes":[
+      "title": "Charlotte Motor Speedway",
+      "id": "charlotte-motor-speedway",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/charlotte-motor-speedway",
+         "sizes": [
             [
                728,
                90
@@ -237,23 +237,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRLG/CHRLG_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/CNLMS/CNLMS_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Town of Ayrsley - Charlotte, NC",
-      "id":"town-of-ayrsley-charlotte-nc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/town-of-ayrsley-charlotte-nc",
-         "sizes":[
+      "title": "Mt. Mourne Middle School",
+      "id": "mt-mourne-middle-school",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/mt-mourne-middle-school",
+         "sizes": [
             [
                728,
                90
@@ -264,23 +264,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/CHRHT/CHRHT_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/MMSNC/MMSNC_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"York Technical - Rock Hill, SC",
-      "id":"york-technical-rock-hill-sc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/york-technical-rock-hill-sc",
-         "sizes":[
+      "title": "County IT Office Lincolnton",
+      "id": "county-it-office-lincolnton",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/county-it-office-lincolnton",
+         "sizes": [
             [
                728,
                90
@@ -291,23 +291,23 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/RCKTC/RCKTC_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/LNCTF/LNCTF_l.jpg",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"York County Government - Rock Hill, SC",
-      "id":"york-county-government-rock-hill-sc",
-      "type":"image",
-      "sponsor":"Scott Clark Honda",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wbtv/web/weather-cams/york-county-government-rock-hill-sc",
-         "sizes":[
+      "title": "WBTV Morganton",
+      "id": "wbtv-morganton",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/wbtv-morganton",
+         "sizes": [
             [
                728,
                90
@@ -318,9 +318,90 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://wwc.instacam.com/instacamimg/RCKSC/RCKSC_l.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "image": "http://wwc.instacam.com/instacamimg/WBTVM/WBTVM_l.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Scott Clark Toyota - Stallings",
+      "id": "scott-clark-toyota-stallings",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/scott-clark-toyota-stallings",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/CHRTY/CHRTY_l.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Scott Clark Nissan",
+      "id": "scott-clark-nissan",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/scott-clark-nissan",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/CHRSC/CHRSC_l.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Birkdale Village Huntersville",
+      "id": "birkdale-village-huntersville",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbtv/web/weather-cams/birkdale-village-huntersville",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.instacam.com/instacamimg/HNTRS/HNTRS_l.jpg",
+      "aspectRatio": "16:9"
    }
 ]
