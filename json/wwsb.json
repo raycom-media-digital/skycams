@@ -54,33 +54,6 @@
       "aspectRatio":"16:9"
    },
    {
-      "title":"Casey Key",
-      "id":"casey-key",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wwsb/web/weather-cams/casey-key",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://customers.1361.ch/001/CAM-05-1/current.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"Holmes Beach",
       "id":"holmes-beach",
       "type":"image",
