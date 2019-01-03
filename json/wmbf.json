@@ -67,5 +67,19 @@
       "hls": "//wmbf-lh.akamaihd.net/i/WMBF_FDTC@31585/master.m3u8",
       "image": "http://webpubcontent.raycommedia.com/wmbf/cameras/florence-darlington-technical-college.png",
       "aspectRatio": "16:9"
+   },
+   {
+      "title": "Sea Captians House",
+      "id": "sea-captians-house",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": "null",
+      "includeAd": false,
+      "rtmp": null,
+      "hls": "http://s36.ipcamlive.com/streams/245c2a2ca1566151e/stream.m3u8",
+      "image": "http://webpubcontent.raycommedia.com/wmbf/cameras/SeaCaptainsHouse.jpg",
+      "aspectRatio": "16:9"
    }
 ]
