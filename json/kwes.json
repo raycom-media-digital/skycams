@@ -9,7 +9,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"kwes/web/general013/midland",
+         "target":"kwes/web/weather/cams/midland",
          "sizes":[
             [
                728,
@@ -36,7 +36,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"kwes/web/general013/odessa",
+         "target":"kwes/web/weather/cams/odessa",
          "sizes":[
             [
                728,
@@ -63,7 +63,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"kwes/web/general013/midland",
+         "target":"kwes/web/weather/cams/midland-2",
          "sizes":[
             [
                728,
@@ -90,7 +90,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"kwes/web/general013/big-spring",
+         "target":"kwes/web/weather/cams/big-spring",
          "sizes":[
             [
                728,
