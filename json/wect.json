@@ -160,5 +160,32 @@
       "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/ee360919/playlist.m3u8",
       "image": "//webpubcontent.raycommedia.com/wect/WSI_Etown.jpg",
       "aspectRatio": "16:9"
+   },
+   {
+      "title": "Surf City Live Cam",
+      "id": "surf-city-live-cam",
+      "type": "video",
+      "sponsor": null,
+      "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LZPHQOFG75GL3FYCILELQLD5MM.png",
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wect/web/station42/surf-city-live-cam",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": "//wowzaprod180-i.akamaihd.net/hls/live/681979/636f8ecd/playlist.m3u8",
+      "image": "//webpubcontent.raycommedia.com/wect/WSI_3Surf.jpg",
+      "aspectRatio": "16:9"
    }
 ]
