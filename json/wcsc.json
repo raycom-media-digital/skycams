@@ -160,5 +160,32 @@
 		"hls": null,
 		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Ingevity/WCSCIngevity.jpg",
 		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Live 5 Home Telecom skycam at Volvo Car Stadium",
+		"id": "live-5-volvo-car-stadium",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station29/live-5-volvo-car-stadium",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "http://webpubcontent.raycommedia.com/wcsc/HD%20Cameras/VolvoStadium/WCSCVolvoStadium.jpg",
+		"aspectRatio": "16:9"
 	}
 ]
