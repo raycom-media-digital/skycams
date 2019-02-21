@@ -244,7 +244,7 @@
    },
    {
       "title":"Pooler/I-95",
-      "id":"pooler/i-95",
+      "id":"pooler-i95",
       "type":"image",
       "sponsor":null,
       "sponsorImage":null,
@@ -252,7 +252,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"wtoc/web/weather-cams/pooler/i-95",
+         "target":"wtoc/web/weather-cams/pooler-i95",
          "sizes":[
             [
                728,
@@ -267,6 +267,33 @@
       "rtmp":null,
       "hls":null,
       "image":"http://webpubcontent.raycommedia.com/wtoc/camera/Vaden%20SkyCam.jpg",
+      "aspectRatio":"16:9"
+   },
+   {
+      "title":"Pooler Parkway",
+      "id":"pooler-parkway",
+      "type":"image",
+      "sponsor":null,
+      "sponsorImage":null,
+      "sponsorBodyText":null,
+      "cameraBodyText":null,
+      "includeAd":true,
+      "ad":{
+         "target":"wtoc/web/weather-cams/pooler-parkway",
+         "sizes":[
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp":null,
+      "hls":null,
+      "image":"http://webpubcontent.raycommedia.com/wtoc/camera/stjosephspooler.jpg",
       "aspectRatio":"16:9"
    }
 ]
