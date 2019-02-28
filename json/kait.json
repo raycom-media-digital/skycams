@@ -108,33 +108,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Walnut Ridge",
-      "id": "walnut-ridge",
-      "type": "image",
-      "sponsor": "U.S. 67, Lawrence Co.",
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "kait/web/radio02/walnut-ridge",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/cav.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "U.S. 49 - Jonesboro",
       "id": "us-49-jonesboro",
       "type": "image",
