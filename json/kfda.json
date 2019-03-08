@@ -1,59 +1,5 @@
 [
    {
-      "title":"I-27-Arden",
-      "id":"i-27-arden",
-      "type":"image",
-      "sponsor":"Boyd's Equipment",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"kfda/web/news/i-27-arden",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/kfda/Timelapse/10.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
-      "title":"Amarillo",
-      "id":"amarillo",
-      "type":"image",
-      "sponsor":"First Baptist Church",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"kfda/web/news/amarillo",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/kfda/Timelapse/FB10.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"Guymon",
       "id":"guymon",
       "type":"image",
