@@ -2,7 +2,7 @@
    {
       "title":"Lake Charles",
       "id":"lake-charles",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":"Southwest Louisiana Credit Union",
       "sponsorImage":null,
       "sponsorBodyText":"<p>We make it personal at Southwest Louisiana Credit Union.</p><p>Southwest Louisiana Credit Union is a member-owned financial cooperative institution, and we&rsquo;re here to serve our members. By just opening and maintaining a share savings account, you become a part-owner of the credit union.</p><p>Credit unions are not-for-profit, which means your loan interest rates are lower, your earnings are higher and you&rsquo;ll rarely see fees.</p><p>Your financial success is our priority, and we&rsquo;ve been helping our members achieve their goals for over 60 years. When you talk with one of our certified financial counselors, you won&rsquo;t be talking with another guy in a suit who&rsquo;s only looking for big profits. You&rsquo;ll be talking with someone in your Credit Union Family who has been where you are and who can help you get on your feet.</p>",
@@ -23,13 +23,14 @@
       },
       "rtmp":null,
       "hls":"https://wms-prod-2.wetmet.net/live/189-01-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"https://api.wetmet.net/client-content/PlayerFrame.php?CAMERA=189-01-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam1/LakeCharles01.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"South Lake Charles",
       "id":"south-lake-charles",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":"Port of Lake Charles",
       "sponsorImage":null,
       "sponsorBodyText":"<p>In a region swept up by unparalleled industrial expansion, the Port of Lake Charles serves as an economic engine to Southwest Louisiana. The Calcasieu Ship Channel is vital to area industry and is rapidly becoming one of America’s energy corridors.</p><p>Roughly 200 square miles of the Port District house facilities that produce 7.5 percent of the nation’s daily petroleum products consumption. With the deepwater navigation channel, cargo handling capabilities, three class 1 railroad companies and a short line railroad, Interstate highway systems and access to barge traffic connections, the Port was ranked by the U.S. Army Corps of Engineers as the 11th-busiest port district in the U.S., based on cargo tonnage.</p><p>The Port of Lake Charles is governed by a seven-member board of commissioners and comprises two marine terminals and over 5,000 acres of property zoned for industrial use, including an industrial park. For more information, call 337-439-3661 or visit <a href='http://www.portlc.com' target='_blank'>www.portlc.com</a>.",
@@ -50,13 +51,14 @@
       },
       "rtmp":null,
       "hls":"https://wms-prod-2.wetmet.net/live/189-03-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"https://api.wetmet.net/client-content/PlayerFrame.php?CAMERA=189-03-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam3/GoldenNugget01.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"Westlake",
       "id":"westlake",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":"Port Aggregates, Inc.",
       "sponsorImage":null,
       "sponsorBodyText":"<p>Port Aggregates, Inc. started in 1979 as a subsidiary of a small construction company in Jennings, Louisiana, owned in part by Andrew Guinn, Sr., with the opening of an aggregate yard in Mermentau, Louisiana. In 1990, Port Aggregates, Inc. signed a supply agreement with Vulcan Materials Company and opened a yard in Westlake, Louisiana. Since that time, Port Aggregates, Inc. has become the largest independently owned aggregate supplier in Louisiana.</p><p>In 1999 the company opened a concrete precast plant in Jennings, Louisiana, to build precast bridges, pump decks, and oilfield platforms. In 2000, Port Aggregates, Inc. opened its first concrete plant in Jennings, Louisiana, and since then has become the largest independently owned concrete company in Louisiana, pouring in excess of 500,000 yards of concrete per year out of 18 Ready Mix plants, with 130 mixers, throughout Southwest Louisiana.</p><p>Port Aggregates, Inc., and its subsidiaries, PAI Pre Cast LLC, PAI Ready Mix LLC, and PAI Material Handling LLC, comprise twenty-four locations throughout the state, with more than 250 employees and 157 trucks.</p><p>Port Aggregates, Inc. is a major player in the mega projects taking place in the Lake Charles. They also service the Lafayette and Cenla markets with Aggregate and Ready Mix products. Its mission is to be the best construction material supplier in Louisiana, safely delivering quality products and service with honesty and integrity.</p>",
@@ -77,13 +79,14 @@
       },
       "rtmp":null,
       "hls":"https://wms-prod-2.wetmet.net/live/189-02-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"https://api.wetmet.net/client-content/PlayerFrame.php?CAMERA=189-02-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam2/Westlake01.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"DeRidder",
       "id":"deridder",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":"Beauregard Health System",
       "sponsorImage":null,
       "sponsorBodyText":"<p>Since 1950, Beauregard Health System has served the healthcare needs of the citizens of Beauregard Parish and surrounding communities. As a 60-bed acute care facility, Beauregard Health System combines the latest medical technology with human warmth and concern.</p><p>Beauregard Health System is a not-for-profit hospital, committed to the continual improvement and expansion of healthcare in the interest of better serving the needs of the community. Beauregard Health System is accredited by the Joint Commission on the Accreditation of Healthcare Organizations. At Beauregard Health System, \"We Treat You Like Family!\"</p>",
@@ -104,13 +107,14 @@
       },
       "rtmp":null,
       "hls":"https://wms-prod-2.wetmet.net/live/189-06-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"https://api.wetmet.net/client-content/PlayerFrame.php?CAMERA=189-06-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam6/Deridder01.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"Jennings",
       "id":"jennings",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":"Hollier's Home Improvement",
       "sponsorImage":null,
       "sponsorBodyText":"<p>Hollier’s Home Improvement is a leading home remodeling and renovations contractor in Lafayette and the surrounding areas. We’re a fully licensed home improvement company that can provide you with professionally installed roofing, siding, windows, soffits & fascia, glass rooms and more.  We love Louisiana and have been serving this community for 20 years.</p><p>For the best remodeling contractor in the business, give us a call at 337-988-330 or click on our ad on this page.</p>",
@@ -131,6 +135,7 @@
       },
       "rtmp":null,
       "hls":"https://wms-prod-2.wetmet.net/live/189-05-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"https://api.wetmet.net/client-content/PlayerFrame.php?CAMERA=189-05-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam5/TBD501.jpg",
       "aspectRatio":"16:9"
    }

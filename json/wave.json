@@ -2,7 +2,7 @@
    {
       "title": "Bardstown",
       "id": "bardstown",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": "<p>The Bardstown camera is located overlooking historic courthouse square. Pointing to the east, the camera captures the historic Nelson County Courthouse and square. The camera can also show weather conditions and the western sky down Stephen Foster Avenue. The camera is located atop of what is commonly referred to as the “Old Library”. The building first served as the Bardstown post office from 1914 until the 1960’s. The Nelson County Public Library called the building home from 1970 until 2005. Currently owned by Nelson County, the first floor of the two story building houses the gallery for Fine Arts Bardstown Society.</p>",
@@ -23,13 +23,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-02-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-02-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD2_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Corydon",
       "id": "corydon",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": "<p>The Corydon, IN camera is located on top of the Harrison County Public Library. The two story former bank is located at the corner of Capitol and Beaver Streets. The camera can monitor the western sky, downtown and the first Capitol. Corydon became the Hoosier State’s first capital in 1816 until offices moved to Indianapolis in 1825. The park surrounding the historic site also hosts community events throughout the year.</p>",
@@ -50,13 +51,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-01-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-01-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD1_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Downtown",
       "id": "downtown",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": null,
@@ -77,13 +79,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-05-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-05-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD5_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Elizabethtown",
       "id": "elizabethtown",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": "<p>The Elizabehtown camera is located atop Hardin Memorial Hospital on North Dixie Avenue. The camera is on the northeast corner of the hospital roof opposite the heliport. The camera can be moved to capture views of Freeman Lake, up and down bustling Dixie Highway, the western skies and toward historic downtown Elizabethtown. The hospital opened in 1954 is owned by the citizens of Hardin County. The hospital is the third largest employer in Hardin County with more than 1,600 employees.</p>",
@@ -104,13 +107,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-06-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-06-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD6_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Starlight",
       "id": "starlight",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": "<p>When in 1843, Simon Huber settled this Southern Indiana farm, he brought with him from Baden-Baden, Germany his years of experience in fruit growing and wine making. From its humble 80 acre beginning, the farm has expanded to over 600 acres. Simon's vision has been perpetuated through the 4th, 5th, 6th and 7th generation Huber's living and working on the farm.</p><p>In the vineyards, 18 different varieties of grapes are grown for the production of our varietals and blended wines. As Indiana's largest wine-grape producer, our vineyards will produce nearly 400,000 pounds of grapes per year under normal weather conditions.</p><p>Next to the restored 1938 barn is the underground Wine Cellar. Within our cellar, the old world art of winemaking combines with the most modern equipment and technology to manifest our magnificent vintages. Every bit of our hard work has paid off with over 900 gold, silver & bronze awards from wine competitions from all regions of the United States. This same quality has been passed to you. We sincerely hope you will plan a visit to Huber Winery to sample and enjoy our wines and hospitality.</p>",
@@ -131,13 +135,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-04-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-04-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD4_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "South Louisville",
       "id": "south-louisville",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": "<p>Kentucky Kingdom is on the grounds of the Kentucky Exposition Center, in the heart of Louisville at the intersection of I-65 and I-264. Follow the highway signs to the Kentucky Expo Center/Kentucky Kingdom and Hurricane Bay.</p>",
@@ -158,13 +163,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-08-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-08-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD8_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Paoli, IN",
       "id": "paoli-in",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": null,
@@ -185,13 +191,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-07-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-07-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD7_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Simpsonville",
       "id": "simpsonville",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": null,
@@ -212,13 +219,14 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-2.wetmet.net/live/154-03-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=154-03-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD3_12.jpg",
       "aspectRatio": "16:9"
    },
    {
       "title": "Jeffersonville",
       "id": "jeffersonville",
-      "type": "image",
+      "type": "htmlEmbed",
       "sponsor": null,
       "sponsorImage": null,
       "sponsorBodyText": null,
@@ -239,6 +247,7 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-1.wetmet.net/live/00-53-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=00-53-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "http://webpubcontent.raycommedia.com/wave/wxmetrics/TBD10_12.jpg",
       "aspectRatio": "16:9"
    }
