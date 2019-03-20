@@ -133,32 +133,5 @@
       "hls":"https://wms-prod-2.wetmet.net/live/189-05-01/playlist.m3u8",
       "image":"http://webpubcontent.raycommedia.com/kplc/Cam5/TBD501.jpg",
       "aspectRatio":"16:9"
-   },
-   {
-      "title":"Cameron",
-      "id":"cameron",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"kplc/web/general002/cameron",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":"https://wms-prod-2.wetmet.net/live/189-04-01/playlist.m3u8",
-      "image":"http://webpubcontent.raycommedia.com/kplc/Cam4/Cameron01.jpg",
-      "aspectRatio":"16:9"
    }
 ]
