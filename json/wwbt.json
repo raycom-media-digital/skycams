@@ -347,7 +347,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wwbt/cams/ts_logo.jpg",
+      "image":"//webpubcontent.raycommedia.com/wwbt/cams/ts_logo.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -374,7 +374,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wwbt/cams/towercam.jpg",
+      "image":"//webpubcontent.raycommedia.com/wwbt/cams/towercam.jpg",
       "aspectRatio":"16:9"
    }
 ]

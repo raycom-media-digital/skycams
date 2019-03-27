@@ -23,7 +23,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/wis%20tower/wistower01.jpg",
+      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/wis%20tower/wistower01.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/lakemurray/lakemurray01.jpg",
+      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/lakemurray/lakemurray01.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/orangeburg/orangeburg01.jpg",
+      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/orangeburg/orangeburg01.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wistv/weathercameras/sumter/sumter01.jpg",
+      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/sumter/sumter01.jpg",
       "aspectRatio": "16:9"
    }
 ]

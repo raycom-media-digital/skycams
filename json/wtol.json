@@ -10,7 +10,7 @@
       "includeAd":false,
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/fifththird/snap_c1.jpg",
+      "image":"//ftpwebapps.raycommedia.com/raycom/wtol/webcams/fifththird/snap_c1.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -24,7 +24,7 @@
       "includeAd":false,
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/mercy/snap_c1.jpg",
+      "image":"//ftpwebapps.raycommedia.com/raycom/wtol/webcams/mercy/snap_c1.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -38,7 +38,7 @@
       "includeAd":false,
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/jetexpress/snap_c1.jpg",
+      "image":"//ftpwebapps.raycommedia.com/raycom/wtol/webcams/jetexpress/snap_c1.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -52,7 +52,7 @@
       "includeAd":false,
       "rtmp":null,
       "hls":null,
-      "image":"http://ftpwebapps.raycommedia.com/raycom/wtol/webcams/stlukes/snap_c1.jpg",
+      "image":"//ftpwebapps.raycommedia.com/raycom/wtol/webcams/stlukes/snap_c1.jpg",
       "aspectRatio":"16:9"
    }
 ]

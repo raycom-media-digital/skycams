@@ -10,7 +10,7 @@
       "includeAd": false,
       "rtmp": null,
       "hls": "//wms-prod-1.wetmet.net/live/107-01-01/playlist.m3u8",
-      "image": "http://webpubcontent.raycommedia.com/wmbf/cameras/conway-sc.jpg",
+      "image": "//webpubcontent.raycommedia.com/wmbf/cameras/conway-sc.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -24,7 +24,7 @@
       "includeAd": false,
       "rtmp": null,
       "hls": "http://s36.ipcamlive.com/streams/245c2a2ca1566151e/stream.m3u8",
-      "image": "http://webpubcontent.raycommedia.com/wmbf/cameras/SeaCaptainsHouse.jpg",
+      "image": "//webpubcontent.raycommedia.com/wmbf/cameras/SeaCaptainsHouse.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -65,7 +65,7 @@
       "includeAd": false,
       "rtmp": null,
       "hls": "//wmbf-lh.akamaihd.net/i/WMBF_FDTC@31585/master.m3u8",
-      "image": "http://webpubcontent.raycommedia.com/wmbf/cameras/florence-darlington-technical-college.png",
+      "image": "//webpubcontent.raycommedia.com/wmbf/cameras/florence-darlington-technical-college.png",
       "aspectRatio": "16:9"
    }
 ]
