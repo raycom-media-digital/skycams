@@ -23,7 +23,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/KCBD.jpg",
+      "image": "//webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/KCBD.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/FBKAT_l.jpg",
+      "image": "//webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/FBKAT_l.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/BELittlefield.jpg",
+      "image": "//webpubcontent.raycommedia.com/kcbd/kcbd-tower-cams/BELittlefield.jpg",
       "aspectRatio": "16:9"
    }
 ]

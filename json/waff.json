@@ -23,7 +23,7 @@
     },
     "rtmp": null,
     "hls": null,
-    "image": "http://webpubcontent.raycommedia.com/waff/alfa/SpaceCenter.jpg",
+    "image": "//webpubcontent.raycommedia.com/waff/alfa/SpaceCenter.jpg",
     "aspectRatio": "16:9"
   },
   {
@@ -50,7 +50,7 @@
     },
     "rtmp": null,
     "hls": null,
-    "image": "http://webpubcontent.raycommedia.com/waff/alfa/Athens.jpg",
+    "image": "//webpubcontent.raycommedia.com/waff/alfa/Athens.jpg",
     "aspectRatio": "16:9"
   },
   {
@@ -77,7 +77,7 @@
     },
     "rtmp": null,
     "hls": null,
-    "image": "http://webpubcontent.raycommedia.com/waff/alfa/Russellville.jpg",
+    "image": "//webpubcontent.raycommedia.com/waff/alfa/Russellville.jpg",
     "aspectRatio": "16:9"
   }
 ]

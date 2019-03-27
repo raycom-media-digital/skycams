@@ -23,7 +23,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wxix/wxmetrics/116_04_01/116_04_01_Current.jpg",
+      "image": "//webpubcontent.raycommedia.com/wxix/wxmetrics/116_04_01/116_04_01_Current.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/wxix/wxmetrics/116_06_01/116_06_01_Current.jpg",
+      "image": "//webpubcontent.raycommedia.com/wxix/wxmetrics/116_06_01/116_06_01_Current.jpg",
       "aspectRatio": "16:9"
    }
 ]

@@ -23,7 +23,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/ammc.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/ammc.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/stadium.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/stadium.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/centralbap.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/centralbap.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/brtc.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/brtc.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -131,7 +131,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/neab.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/neab.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -158,7 +158,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/fnb.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/fnb.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -185,7 +185,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://webpubcontent.raycommedia.com/kait/rwimages/bates.jpg",
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/bates.jpg",
       "aspectRatio": "16x9"
    }
 ]

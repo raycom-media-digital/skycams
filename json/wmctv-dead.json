@@ -23,7 +23,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wmctv/CAMS/midtown.jpg",
+      "image":"//webpubcontent.raycommedia.com/wmctv/CAMS/midtown.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -50,7 +50,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wmctv/CAMS/clarktower.jpg",
+      "image":"//webpubcontent.raycommedia.com/wmctv/CAMS/clarktower.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -77,7 +77,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wmctv/CAMS/uofm.jpg",
+      "image":"//webpubcontent.raycommedia.com/wmctv/CAMS/uofm.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -104,7 +104,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wmctv/CAMS/oxford.jpg",
+      "image":"//webpubcontent.raycommedia.com/wmctv/CAMS/oxford.jpg",
       "aspectRatio":"16:9"
    },
    {
@@ -131,7 +131,7 @@
       },
       "rtmp":null,
       "hls":null,
-      "image":"http://webpubcontent.raycommedia.com/wmctv/CAMS/olivebranch.jpg",
+      "image":"//webpubcontent.raycommedia.com/wmctv/CAMS/olivebranch.jpg",
       "aspectRatio":"16:9"
    }
 ]

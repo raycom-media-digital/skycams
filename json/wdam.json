@@ -23,7 +23,7 @@
 		},
 		"rtmp": null,
 		"hls": null,
-		"image": "http://webpubcontent.raycommedia.com/wdam/USM_SKYCAM01.jpg",
+		"image": "//webpubcontent.raycommedia.com/wdam/USM_SKYCAM01.jpg",
 		"aspectRatio": "16x9"
 	}
 ]
