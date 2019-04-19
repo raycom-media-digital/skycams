@@ -430,5 +430,32 @@
       "hls": null,
       "image": "http://www.gowbrc.com/wbrc/weather/webcams/downtownbham/image.jpg",
       "aspectRatio": "16:9"
+   },
+   {
+      "title": "Birmingham Airport",
+      "id": "birmingham-airport",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbrc/web/weather-cams/birmingham-airport",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "http://www.gowbrc.com/wbrc/weather/webcams/airport/image.jpg",
+      "aspectRatio": "16:9"
    }
 ]
