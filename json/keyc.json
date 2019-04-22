@@ -1,0 +1,110 @@
+[
+	{
+		"title": "North Mankato",
+		"id": "north-mankato",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/cams/north-mankato",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "https://ftpcontent.worldnow.com/keyc/skycam/studio.jpg",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Mankato Hilltop",
+		"id": "mankato-hilltop",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/cams/mankato-hilltop",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "https://ftpcontent.worldnow.com/keyc/skycam/hilltop.jpg",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Lewisville",
+		"id": "lewisville",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/cams/lewisville",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "https://ftpcontent.worldnow.com/keyc/skycam/lewisville.jpg",
+		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Profinium Place",
+		"id": "profinium-place",
+		"type": "image",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "keyc/web/weather/cams/profinium-place",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "https://ftpcontent.worldnow.com/keyc/skycam/profinium.jpg",
+		"aspectRatio": "16x9"
+	}
+]
