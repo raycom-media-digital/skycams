@@ -83,33 +83,6 @@
       "aspectRatio":"16:9"
    },
    {
-      "title":"Prattville Clocktower",
-      "id":"prattville-clocktower",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wsfa/web/weather-cams/prattville-clocktower",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/clocktower/Prattville_data1.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"Prattville Cobbs Ford",
       "id":"prattville-cobbs-ford",
       "type":"image",
