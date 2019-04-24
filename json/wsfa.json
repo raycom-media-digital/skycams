@@ -24,7 +24,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb49381763a4\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":null,
+      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/ZGHZPFY3SFCXHG4HQ4SAR4KTTM.JPG",
       "aspectRatio":"16:9"
    },
    {
@@ -52,7 +52,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb493c8b4da9\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/downtownmontgomery/RSA_data1.jpg",
+      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/G6CCQBOW3JHF3LNMYE57MWBRIE.JPG",
       "aspectRatio":"16:9"
    },
    {
@@ -188,7 +188,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb49403d7612\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/troy/Troy_data1.jpg",
+      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/6ICDMQB7ZVEHRNPYX4W7ANUNEU.JPG",
       "aspectRatio":"16:9"
    },
    {
