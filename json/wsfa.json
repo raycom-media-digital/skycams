@@ -1,5 +1,33 @@
 [
    {
+      "title": "Alfa Insurance Camera Network",
+      "id": "alfa-cam-network",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wsfa/web/weather-cams/alfa-cam-network",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "html": null,
+      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LOIBBVGBGBGEBPIMIMKKENXTKQ.png",
+      "aspectRatio": "16:9"
+   },
+   {
       "title":"Andalusia",
       "id":"andalusia",
       "type":"htmlEmbed",
