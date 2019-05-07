@@ -324,60 +324,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Pell City",
-      "id": "pell-city",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Pell City SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Pell City SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/pell-city",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/PellCity/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Tuscaloosa-Bank",
-      "id": "tuscaloosa-bank",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current FOX6 WBRC Tuscaloosa - Trustmark Bank SkyVision camera</p>",
-      "cameraBodyText": "<p>Current FOX6 WBRC Tuscaloosa - Trustmark Bank SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/tuscaloosa-bank",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/PNC/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "Tuscaloosa-W&W",
       "id": "tuscaloosa-wandw",
       "type": "image",
