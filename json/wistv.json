@@ -32,8 +32,8 @@
       "type": "image",
       "sponsor": "Great Southern Homes",
       "sponsorImage": null,
-      "sponsorBodyText": "<p>The Lake Murray camera is located at Sunset Bay, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
-      "cameraBodyText": "<p>The Lake Murray camera is located at Sunset Bay, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "sponsorBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "cameraBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
       "includeAd": true,
       "ad": {
          "target": "wistv/web/weather/cams/lake-murray",
