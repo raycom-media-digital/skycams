@@ -25,5 +25,59 @@
       "hls":null,
       "image":"//webpubcontent.raycommedia.com/kfda/Timelapse/G10.jpg",
       "aspectRatio":"16:9"
+   },
+   {
+      "title": "Bushland, Texas",
+      "id": "bushland",
+      "type": "image",
+      "sponsor": "Access Fire & Security Systems",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kfda/web/news/bushland",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/kfda/Timelapse/BL10.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Downtown Amarillo",
+      "id": "downtown",
+      "type": "image",
+      "sponsor": "Access Fire & Security Systems",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kfda/web/news/downtown",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/kfda/Timelapse/DT10.jpg",
+      "aspectRatio": "16:9"
    }
 ]
