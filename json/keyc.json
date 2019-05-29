@@ -23,34 +23,7 @@
 		},
 		"rtmp": null,
 		"hls": null,
-		"image": "https://ftpcontent.worldnow.com/keyc/skycam/studio.jpg",
-		"aspectRatio": "16x9"
-	},
-	{
-		"title": "Mankato Hilltop",
-		"id": "mankato-hilltop",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "keyc/web/weather/cams/mankato-hilltop",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "https://ftpcontent.worldnow.com/keyc/skycam/hilltop.jpg",
+		"image": "https://webpubcontent.raycommedia.com/keyc/skycam/studio.jpg",
 		"aspectRatio": "16x9"
 	},
 	{
@@ -77,7 +50,7 @@
 		},
 		"rtmp": null,
 		"hls": null,
-		"image": "https://ftpcontent.worldnow.com/keyc/skycam/lewisville.jpg",
+		"image": "https://webpubcontent.raycommedia.com/keyc/skycam/lewisville.jpg",
 		"aspectRatio": "16x9"
 	},
 	{
@@ -104,7 +77,7 @@
 		},
 		"rtmp": null,
 		"hls": null,
-		"image": "https://ftpcontent.worldnow.com/keyc/skycam/profinium.jpg",
+		"image": "https://webpubcontent.raycommedia.com/keyc/skycam/profinium.jpg",
 		"aspectRatio": "16x9"
 	}
 ]
