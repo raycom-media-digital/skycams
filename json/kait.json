@@ -187,5 +187,32 @@
       "hls": null,
       "image": "//webpubcontent.raycommedia.com/kait/rwimages/bates.jpg",
       "aspectRatio": "16x9"
+   },
+   {
+      "title": "Walnut Ridge",
+      "id": "walnut-ridge",
+      "type": "image",
+      "sponsor": "First National Bank of Lawrence Co.",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kait/web/station29/walnut-ridge",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/WalnutRidge.jpg",
+      "aspectRatio": "16:9"
    }
 ]
