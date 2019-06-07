@@ -247,7 +247,7 @@
       },
       "rtmp": null,
       "hls": "https://wms-prod-1.wetmet.net/live/00-53-01/playlist.m3u8",
-      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=00-53-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/widgets/stream/frame.php?uid=7e007008c80c8dc5b3cafb5dc9584916\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "//webpubcontent.raycommedia.com/wave/wxmetrics/TBD10_12.jpg",
       "aspectRatio": "16:9"
    }
