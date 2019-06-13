@@ -1,7 +1,7 @@
 [
    {
-      "title":"East Alabama Medical Center",
-      "id":"east-alabama-medical-center",
+      "title":"Eufaula, AL",
+      "id":"eufala",
       "type":"image",
       "sponsor":"Alfa Insurance",
       "sponsorImage":null,
@@ -9,7 +9,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"wtvm/web/weather/east-alabama-medical-center",
+         "target":"wtvm/web/weather/eufala",
          "sizes":[
             [
                728,
