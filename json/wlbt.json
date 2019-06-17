@@ -1,32 +1,5 @@
 [
    {
-      "title":"McComb",
-      "id":"mccomb",
-      "type":"video",
-      "sponsor":"&nbsp;",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wlbt/web/trafficcam/mccomb",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":"rtmp://wlbt-wowza.streamguys1.com:80/live/wlbt_mccomb.stream",
-      "hls":"//wlbt-wowza.streamguys1.com/live/wlbt_mccomb.stream/playlist.m3u8",
-      "image":"https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/WBNIFGEG6ZAEXFTHG3BOHJ4TLE.PNG",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"WLBT Studios",
       "id":"wlbt-studios",
       "type":"video",
