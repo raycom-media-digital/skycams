@@ -214,5 +214,32 @@
       "hls": null,
       "image": "//webpubcontent.raycommedia.com/kait/rwimages/WalnutRidge.jpg",
       "aspectRatio": "16:9"
+   },
+   {
+      "title": "Marked Tree",
+      "id": "marked-tree",
+      "type": "image",
+      "sponsor": "Progeny Ag Products",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "kait/web/station29/marked-tree",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/kait/rwimages/MarkedTree.jpg",
+      "aspectRatio": "16:9"
    }
 ]
