@@ -10,6 +10,7 @@
       "includeAd": false,
       "rtmp": null,
       "hls": "//wms-prod-1.wetmet.net/live/107-01-01/playlist.m3u8",
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//api.wetmet.net/client-content/PlayerFrame.php?CAMERA=107-01-01&CFVER=WM&WIDTH=100%&HEIGHT=100%\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
       "image": "//webpubcontent.raycommedia.com/wmbf/cameras/conway-sc.jpg",
       "aspectRatio": "16:9"
    },
@@ -23,7 +24,7 @@
       "cameraBodyText": "<p>The Sea Captain's House Restaurant has won more awards than any other restaurant in Myrtle Beach. Southern Living Magazine named it Best Seafood Restaurant four years in a row.</p><p>Over the years many have crossed the portals of the Sea Captain's House, enjoyed the superb dining, ocean view and warm southern hospitality that the Sea Captain's House offers. To this day, it is still known as the place for seafood where friends meet year after year.</p><p>Your visit to Myrtle Beach is not complete without a trip to the Sea Captain's House!</p><p>Online: <a href='http://www.seacaptains.com/' target='_blank'>http://www.seacaptains.com/</a>.</p>",
       "includeAd": false,
       "rtmp": null,
-      "hls": "http://s36.ipcamlive.com/streams/245c2a2ca1566151e/stream.m3u8",
+      "hls": "//s36.ipcamlive.com/streams/245c2a2ca1566151e/stream.m3u8",
       "image": "//webpubcontent.raycommedia.com/wmbf/cameras/SeaCaptainsHouse.jpg",
       "aspectRatio": "16:9"
    },
@@ -57,7 +58,7 @@
    {
       "title": "Florence, SC",
       "id": "florence-sc",
-      "type": "video",
+      "type": "image",
       "sponsor": "Florence Darlington Technical College",
       "sponsorImage": null,
       "sponsorBodyText": "<p>Founded in 1963 as a part of the South Carolina Technical Education System to attract industry to South Carolina, Florence-Darlington Technical College (FDTC) seeks to provide comprehensive technical education, workforce development, and educational services to students, businesses and industries. Through instructional programs, business and industry partnerships, and community involvement, the college plays a prominent role in the economic development and quality of life of its many constituents. Currently serving Florence, Darlington, and Marion counties, FDTC’s initial en¬rollment of 250 students now exceeds 6,000 curriculum students. Its original campus of less than 10 acres has expanded to nearly 240 acres with a modern complex of ten major buildings totaling nearly 750,000 square feet.</p><p>The Southeastern Institute of Manufacturing and Technology (SiMT) located at the back of the main campus has an Advanced Manufacturing Center (AMC) and a Manufacturing and Business Incubator. The AMC contains an 800-seat auditorium, a conference center, an advanced manufacturing lab, a rapid prototyping lab, a 3D/Virtual Reality Center, and the National Robotics Training Center of Excellence.</p><p>The college operates satellite sites in Hartsville, Lake City, and Mullins. The college also operates a large health sciences complex in downtown Florence entirely devoted to careers in the health arena.</p><p>Online: <a href='http://www.fdtc.edu/' target='_blank'>http://www.fdtc.edu/</a>.</p>",
