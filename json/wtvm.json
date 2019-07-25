@@ -160,5 +160,32 @@
       "hls":null,
       "image":"//webpubcontent.raycommedia.com/wtvm/cams/ASHLEYFURNITURE/ASHLEYFURNITURE.jpg",
       "aspectRatio":"16:9"
+   },
+   {
+      "title": "EAMC – Opelika, AL",
+      "id": "eamc-opelika",
+      "type": "image",
+      "sponsor": "Alfa Insurance",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wtvm/web/weather/eamc-okelika",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/wtvm/cams/EAMC/EAMC.jpeg",
+      "aspectRatio": "16:9"
    }
 ]
