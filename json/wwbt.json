@@ -162,33 +162,6 @@
       "aspectRatio":"16:9"
    },
    {
-      "title":"Prince Edward Middle School",
-      "id":"prince-edward-middle-school",
-      "type":"image",
-      "sponsor":"JES",
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wwbt/web/promotion1/prince-edward-middle-school",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"//instacam.earthnetworks.com/instacamimg/FRMVL/FRMVL_l.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
       "title":"Troutman Sanders",
       "id":"troutman-sanders",
       "type":"image",
