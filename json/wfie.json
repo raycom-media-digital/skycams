@@ -187,5 +187,32 @@
         "hls":"//wfietv.streamguys1.com/live/usi.stream/playlist.m3u8",
         "image":"https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/Westside.jpg",
         "aspectRatio":"16:9"
+    },
+    {
+        "title": "Lake Barkley",
+        "id": "lake-barkley",
+        "type": "video",
+        "sponsor": "&nbsp;",
+        "sponsorImage": null,
+        "sponsorBodyText": null,
+        "cameraBodyText": null,
+        "includeAd": true,
+        "ad": {
+            "target": "wfie/web/weathercam/lake-barkley",
+            "sizes": [
+                [
+                    728,
+                    90
+                ],
+                [
+                    320,
+                    50
+                ]
+            ]
+        },
+        "rtmp": "rtmp://wfietv.streamguys1.com/live/LakeBarkleyCam.stream",
+        "hls": "//wfietv.streamguys1.com/live/LakeBarkleyCam.stream/playlist.m3u8",
+        "image": "https://webpubcontent.raycommedia.com/wfie/weathercams/thumbs/barkley.png",
+        "aspectRatio": "16:9"
     }
 ]
