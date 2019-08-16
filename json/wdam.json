@@ -25,5 +25,32 @@
 		"hls": null,
 		"image": "//webpubcontent.raycommedia.com/wdam/USM_SKYCAM01.jpg",
 		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Laurel",
+		"id": "laurel",
+		"type": "image",
+		"sponsor": "Sunbelt Federal Credit Union",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/cams/laurel",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": null,
+		"image": "//webpubcontent.raycommedia.com/wdam/CU_SKYCAM01.jpg",
+		"aspectRatio": "16x9"
 	}
 ]
