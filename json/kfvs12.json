@@ -32,7 +32,7 @@
       "id":"sikeston",
       "type":"video",
       "sponsor": "SEMO Express",
-      "sponsorImage": null,
+      "sponsorImage": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/ZOOWMJIVABB5VGV4EDGIUC66BM.png",
       "sponsorBodyText":null,
       "cameraBodyText":null,
       "includeAd":false,
