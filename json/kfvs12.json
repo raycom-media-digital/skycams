@@ -17,7 +17,7 @@
       "title":"Cape Girardeau West",
       "id":"cape-girardeau-west",
       "type":"video",
-      "sponsor":"nbsp;",
+      "sponsor":"&nbsp;",
       "sponsorImage":null,
       "sponsorBodyText":null,
       "cameraBodyText":null,
