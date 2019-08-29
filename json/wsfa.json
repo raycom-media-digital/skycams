@@ -56,8 +56,36 @@
       "aspectRatio":"16:9"
    },
    {
-      "title":"Downtown Montgomery",
-      "id":"downtown-montgomery",
+      "title": "Auburn University at Montgomery",
+      "id": "aum",
+      "type": "htmlEmbed",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wsfa/web/weather-cams/aum",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=aumcam\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
+      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/PGE36VQGXJEZBNVQJH4DKNKLRA.JPG",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title":"Dexter Avenue",
+      "id":"dexter-avenue",
       "type":"htmlEmbed",
       "sponsor":null,
       "sponsorImage":null,
@@ -65,7 +93,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"wsfa/web/weather-cams/downtown-montgomery",
+         "target":"wsfa/web/weather-cams/dexter-avenue",
          "sizes":[
             [
                728,
@@ -84,17 +112,17 @@
       "aspectRatio":"16:9"
    },
    {
-      "title":"East Montgomery",
-      "id":"east-montgomery",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wsfa/web/weather-cams/east-montgomery",
-         "sizes":[
+      "title": "RSA Tower",
+      "id": "rsa-tower",
+      "type": "htmlEmbed",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wsfa/web/weather-cams/rsa-tower",
+         "sizes": [
             [
                728,
                90
@@ -105,95 +133,15 @@
             ]
          ]
       },
-      "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/eastmontgomery/EMontgomery_data1.jpg",
-      "aspectRatio":"16:9"
+      "rtmp": null,
+      "hls": null,
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5d53356c0df94\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
+      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/UB3BEO4JWBHW7LFT74A5NEWMVU.JPG",
+      "aspectRatio": "16:9"
    },
    {
-      "title":"Prattville Cobbs Ford",
-      "id":"prattville-cobbs-ford",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wsfa/web/weather-cams/prattville-cobbs-ford",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/prattville/HowardJohnson_data1.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
-      "title":"Selma",
-      "id":"selma",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wsfa/web/weather-cams/selma",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/selma/Selma_data1.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
-      "title":"Tallassee",
-      "id":"tallassee",
-      "type":"image",
-      "sponsor":null,
-      "sponsorImage":null,
-      "sponsorBodyText":null,
-      "cameraBodyText":null,
-      "includeAd":true,
-      "ad":{
-         "target":"wsfa/web/weather-cams/tallassee",
-         "sizes":[
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/tallassee/Tallassee_data1.jpg",
-      "aspectRatio":"16:9"
-   },
-   {
-      "title":"Troy",
-      "id":"troy",
+      "title":"Troy University",
+      "id":"troy-university",
       "type":"htmlEmbed",
       "sponsor":null,
       "sponsorImage":null,
@@ -201,7 +149,7 @@
       "cameraBodyText":null,
       "includeAd":true,
       "ad":{
-         "target":"wsfa/web/weather-cams/troy",
+         "target":"wsfa/web/weather-cams/troy-university",
          "sizes":[
             [
                728,
