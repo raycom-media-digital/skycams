@@ -28,6 +28,34 @@
       "aspectRatio": "16:9"
    },
    {
+      "title": "Alabama State University",
+      "id": "asu",
+      "type": "htmlEmbed",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wsfa/web/weather-cams/asu",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5d700c1a3db67\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
+      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/YTX4PMCKVZAWRHWVPAWWB3742I.png",
+      "aspectRatio": "16:9"
+   },
+   {
       "title":"Andalusia",
       "id":"andalusia",
       "type":"htmlEmbed",
