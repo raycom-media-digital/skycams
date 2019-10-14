@@ -52,7 +52,21 @@
 		"includeAd": false,
 		"rtmp": null,
 		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/kfvs12/weather/cameras/poplar%20bluff.jpg",
+		"image": "//webpubcontent.raycommedia.com/kfvs12/weather/cameras/perryville.jpg",
 		"aspectRatio": "16:9"
-	}
+	},
+   {
+      "title": "SEMO",
+      "id": "semo",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": false,
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/kfvs12/weather/cameras/semo.jpg",
+      "aspectRatio": "16:9"
+   }
 ]
