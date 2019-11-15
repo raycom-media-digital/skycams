@@ -36,7 +36,7 @@
       "sponsorBodyText":null,
       "cameraBodyText":null,
       "includeAd":true,
-      "uuid":"",
+      "uuid": "ac17ef31-008c-457b-9c0e-7cacddafd97c",
       "ad":{
          "target":"wlbt/web/trafficcam/downtown-jackson",
          "sizes":[
@@ -64,7 +64,7 @@
       "sponsorBodyText":null,
       "cameraBodyText":null,
       "includeAd":true,
-      "uuid":null,
+      "uuid": "ac17ef31-008c-457b-9c0e-7cacddafd97c",
       "ad":{
          "target":"wlbt/web/trafficcam/natchez",
          "sizes":[
@@ -92,6 +92,7 @@
       "sponsorBodyText":null,
       "cameraBodyText":null,
       "includeAd":true,
+      "uuid": "ac17ef31-008c-457b-9c0e-7cacddafd97c",
       "ad":{
          "target":"wlbt/web/trafficcam/jackson-medgar-wiley-evers-int",
          "sizes":[
