@@ -1,5 +1,28 @@
 [
 	{
+		"title": "Forrest General",
+		"id": "forrest-general",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=HTTSB",
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/radar/forrest-general",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/UTVYWNCSFBEYXA5LYIPQXF2T6I.jpg"
+	},
+	{
 		"title": "University of Southern Mississippi",
 		"id": "university-of-southern-mississippi",
 		"type": "image",
