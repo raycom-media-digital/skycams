@@ -27,8 +27,8 @@
 		"aspectRatio": "16x9"
 	},
 	{
-		"title": "Lewisville",
-		"id": "lewisville",
+		"title": "Mankato Hilltop",
+		"id": "mankato-hilltop",
 		"type": "image",
 		"sponsor": null,
 		"sponsorImage": null,
@@ -36,7 +36,7 @@
 		"cameraBodyText": null,
 		"includeAd": true,
 		"ad": {
-			"target": "keyc/web/weather/cams/lewisville",
+			"target": "keyc/web/weather/cams/mankato-hilltop",
 			"sizes": [
 				[
 					728,
@@ -50,7 +50,7 @@
 		},
 		"rtmp": null,
 		"hls": null,
-		"image": "https://webpubcontent.raycommedia.com/keyc/skycam/lewisville.jpg",
+		"image": "https://webpubcontent.raycommedia.com/keyc/skycam/hilltop.jpg",
 		"aspectRatio": "16x9"
 	},
 	{
