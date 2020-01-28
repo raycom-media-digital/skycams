@@ -110,5 +110,33 @@
       "hls":"//wlbt-wowza.streamguys1.com/live/wlbt.stream/playlist.m3u8",
       "image":"https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/UKJ7SSOHLJGWLP5HWGCGRPWTWE.PNG",
       "aspectRatio":"16:9"
+   },
+   {
+      "title": "McComb",
+      "id": "mccomb",
+      "type": "video",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "uuid": "ac17ef31-008c-457b-9c0e-7cacddafd97c",
+      "ad": {
+         "target": "wlbt/web/trafficcam/mccomb",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": "rtmp://wlbt-wowza.streamguys1.com/live/wlbt_mccomb.stream",
+      "hls": "//wlbt-wowza.streamguys1.com/live/wlbt_mccomb.stream/playlist.m3u8",
+      "image": "https://arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/BBNNVRCXQBFCRP4C4FHKIN4H6I.png",
+      "aspectRatio": "16:9"
    }
 ]
