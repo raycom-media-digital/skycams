@@ -1,0 +1,56 @@
+[
+   {
+      "title": "Bossier City",
+      "id": "bossier-city",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "ksla/web/weather-cams/bossier-city",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.gray.tv/ksla/weather/johnharvey.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Natchitoches",
+      "id": "natchitoches",
+      "type": "image",
+      "sponsor": "&nbsp;",
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "ksla/web/weather-cams/natchitoches",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.gray.tv/ksla/weather/nsu.jpg",
+      "aspectRatio": "16:9"
+   }
+]
