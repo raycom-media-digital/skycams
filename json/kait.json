@@ -54,33 +54,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "South Jonesboro",
-      "id": "south-jonesboro",
-      "type": "image",
-      "sponsor": "Central Baptist Church",
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "kait/web/radio04/south-jonesboro",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//webpubcontent.raycommedia.com/kait/rwimages/centralbap.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "Pocahontas",
       "id": "pocahontas",
       "type": "image",
