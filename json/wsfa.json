@@ -226,7 +226,7 @@
    {
       "title":"Tuskegee",
       "id":"tuskegee",
-      "type":"image",
+      "type":"htmlEmbed",
       "sponsor":null,
       "sponsorImage":null,
       "sponsorBodyText":null,
