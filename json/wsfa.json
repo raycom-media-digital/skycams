@@ -52,7 +52,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5d700c1a3db67\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/YTX4PMCKVZAWRHWVPAWWB3742I.png",
+      "image": "//g1.ipcamlive.com/player/snapshot.php?alias=5d700c1a3db67",
       "aspectRatio": "16:9"
    },
    {
@@ -80,7 +80,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb49381763a4\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/ZGHZPFY3SFCXHG4HQ4SAR4KTTM.JPG",
+      "image":"//g1.ipcamlive.com/player/snapshot.php?alias=5cb49381763a4",
       "aspectRatio":"16:9"
    },
    {
@@ -108,7 +108,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5d418c759e925\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/S4ZTLGO3OVE7JBHRTMGOUU5TJ4.JPG",
+      "image": "//g1.ipcamlive.com/player/snapshot.php?alias=5d418c759e925",
       "aspectRatio": "16:9"
    },
    {
@@ -164,7 +164,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb493c8b4da9\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/G6CCQBOW3JHF3LNMYE57MWBRIE.JPG",
+      "image":"//g1.ipcamlive.com/player/snapshot.php?alias=5cb493c8b4da9",
       "aspectRatio":"16:9"
    },
    {
@@ -192,7 +192,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5d53356c0df94\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/4DH244Q7QBHFVOUYCYDQUHPHRE.JPG",
+      "image": "//g1.ipcamlive.com/player/snapshot.php?alias=5d53356c0df94",
       "aspectRatio": "16:9"
    },
    {
@@ -220,7 +220,7 @@
       "rtmp":null,
       "hls":null,
       "html":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5cb49403d7612\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
-      "image":"//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/6ICDMQB7ZVEHRNPYX4W7ANUNEU.JPG",
+      "image":"//g1.ipcamlive.com/player/snapshot.php?alias=5cb49403d7612",
       "aspectRatio":"16:9"
    },
    {
@@ -246,8 +246,8 @@
          ]
       },
       "rtmp":null,
-      "hls":null,
-      "image":"//webpubcontent.raycommedia.com/wsfa/wxmetrics/tuskegee/Tuskegee_data1.jpg",
+      "hls":"<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5ed8f6dbc530c\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowFullScreen>Loading Player...</iframe>\n</div>",
+      "image":"//g1.ipcamlive.com/player/snapshot.php?alias=5ed8f6dbc530c",
       "aspectRatio":"16:9"
    }
 ]
