@@ -1,32 +1,5 @@
 [
    {
-      "title": "WBRC Studio",
-      "id": "wbrc-studio",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 News Studio camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 News Studio camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/wbrc-studio",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/studio/studio.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "WBRC TowerCam",
       "id": "wbrc-towercam",
       "type": "image",
@@ -50,7 +23,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/TCAM/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/TCAM/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -77,7 +50,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/powercam/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/powercam/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -104,7 +77,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/Bessemer/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/Bessemer/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -131,7 +104,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/Chelsea/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/Chelsea/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -158,7 +131,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/grandview/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/grandview/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -185,7 +158,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/gulfshores/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/gulfshores/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -212,7 +185,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/hamiltonft/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/hamiltonft/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -239,7 +212,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/Galleria/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/Galleria/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -266,7 +239,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/Jasper/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/Jasper/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -293,7 +266,34 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/mcwane/mcwane.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/mcwane/mcwane.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Montevallo",
+      "id": "montevallo",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbrc/web/weather-cams/montevallo",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/montevallo/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -320,7 +320,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/oneonta/oneonta.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/oneonta/oneonta.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -347,7 +347,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/tuscaloosa/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/tuscaloosa/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -374,7 +374,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/downtownbham/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/downtownbham/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -401,7 +401,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "http://www.gowbrc.com/wbrc/weather/webcams/airport/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/airport/image.jpg",
       "aspectRatio": "16:9"
    }
 ]
