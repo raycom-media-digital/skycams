@@ -56,7 +56,7 @@
    {
       "title":"Uptown Columbus",
       "id":"uptown-columbus",
-      "type":"image",
+      "type":"video",
       "sponsor":"Alfa Insurance",
       "sponsorImage":null,
       "sponsorBodyText":null,
@@ -76,14 +76,14 @@
          ]
       },
       "rtmp":null,
-      "hls":null,
+      "hls":"//wtvm.streamguys1.com/live/govtcenter/playlist.m3u8",
       "image":"//webpubcontent.raycommedia.com/wtvm/cams/GOVCENTER/GOVCENTER.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"Manchester Expy",
       "id":"manchester-expy",
-      "type":"image",
+      "type":"video",
       "sponsor":"Alfa Insurance",
       "sponsorImage":null,
       "sponsorBodyText":null,
@@ -103,14 +103,14 @@
          ]
       },
       "rtmp":null,
-      "hls":null,
+      "hls":"//wtvm.streamguys1.com/live/stfrancis/playlist.m3u8",
       "image":"//webpubcontent.raycommedia.com/wtvm/cams/STFRANCIS/STFRANCIS.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"WXTX Tower",
       "id":"wxtx-tower",
-      "type":"image",
+      "type":"video",
       "sponsor":"Alfa Insurance",
       "sponsorImage":null,
       "sponsorBodyText":null,
@@ -130,14 +130,14 @@
          ]
       },
       "rtmp":null,
-      "hls":null,
+      "hls":"//wtvm.streamguys1.com/live/wxtxtower/playlist.m3u8",
       "image":"//webpubcontent.raycommedia.com/wtvm/cams/WXTXTOWER/WXTXTOWER.jpg",
       "aspectRatio":"16:9"
    },
    {
       "title":"Whittlesey Boulevard",
       "id":"whittlesey-boulevard",
-      "type":"image",
+      "type":"video",
       "sponsor":"Alfa Insurance",
       "sponsorImage":null,
       "sponsorBodyText":null,
@@ -157,7 +157,7 @@
          ]
       },
       "rtmp":null,
-      "hls":null,
+      "hls":"//wtvm.streamguys1.com/live/ashleyfurniture/playlist.m3u8",
       "image":"//webpubcontent.raycommedia.com/wtvm/cams/ASHLEYFURNITURE/ASHLEYFURNITURE.jpg",
       "aspectRatio":"16:9"
    },
