@@ -243,6 +243,33 @@
       "aspectRatio":"16:9"
    },
    {
+      "title": "Midtown Savannah",
+      "id": "Midtown Savannah",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wtoc/web/weather-cams/savannah-midtown",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//webpubcontent.raycommedia.com/wtoc/camera/Hostilo.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
       "title":"Pooler/I-95",
       "id":"pooler-i95",
       "type":"image",
