@@ -27,16 +27,16 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Alabama PowerCam",
-      "id": "alabama-powercam",
+      "title": "Downtown Birmingham",
+      "id": "downtown-birmingham",
       "type": "image",
       "sponsor": null,
       "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Alabama Power SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Alabama Power SkyVision camera</p>",
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wbrc/web/weather-cams/alabama-powercam",
+         "target": "wbrc/web/weather-cams/downtown-birmingham",
          "sizes": [
             [
                728,
@@ -50,20 +50,20 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/powercam/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/downtownbham/image.jpg",
       "aspectRatio": "16:9"
    },
    {
-      "title": "Bessemer",
-      "id": "bessemer",
+      "title": "Birmingham Airport",
+      "id": "birmingham-airport",
       "type": "image",
       "sponsor": null,
       "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Bessemer SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Bessemer SkyVision camera</p>",
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wbrc/web/weather-cams/bessemer",
+         "target": "wbrc/web/weather-cams/birmingham-airport",
          "sizes": [
             [
                728,
@@ -77,20 +77,20 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/Bessemer/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/airport/image.jpg",
       "aspectRatio": "16:9"
    },
    {
-      "title": "Chelsea",
-      "id": "chelsea",
+      "title": "McWane",
+      "id": "mcwane",
       "type": "image",
       "sponsor": null,
       "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Chelsea SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Chelsea SkyVision camera</p>",
+      "sponsorBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
+      "cameraBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
       "includeAd": true,
       "ad": {
-         "target": "wbrc/web/weather-cams/chelsea",
+         "target": "wbrc/web/weather-cams/mcwane",
          "sizes": [
             [
                728,
@@ -104,7 +104,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/Chelsea/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/mcwane/mcwane.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -135,16 +135,16 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Gulf Shores",
-      "id": "gulf-shores",
+      "title": "Tuscaloosa-W&W",
+      "id": "tuscaloosa-wandw",
       "type": "image",
       "sponsor": null,
       "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Gulf Shores SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Gulf Shores SkyVision camera</p>",
+      "sponsorBodyText": "<p>Current WBRC FOX6 Tuscaloosa - Woods & Water SkyVision camera</p>",
+      "cameraBodyText": "<p>Current WBRC FOX6 Tuscaloosa - Woods & Water SkyVision camera</p>",
       "includeAd": true,
       "ad": {
-         "target": "wbrc/web/weather-cams/gulf-shores",
+         "target": "wbrc/web/weather-cams/tuscaloosa-wandw",
          "sizes": [
             [
                728,
@@ -158,20 +158,20 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/gulfshores/image.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/tuscaloosa/image.jpg",
       "aspectRatio": "16:9"
    },
    {
-      "title": "Hamilton Fire Tower",
-      "id": "hamilton-fire-tower",
+      "title": "Sanders Aviation Jasper",
+      "id": "jasper-sanders",
       "type": "image",
       "sponsor": null,
       "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Hamilton Fire Tower SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Hamilton Fire Tower SkyVision camera</p>",
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
       "includeAd": true,
       "ad": {
-         "target": "wbrc/web/weather-cams/hamilton-fire-tower",
+         "target": "wbrc/web/weather-cams/jasper-sanders",
          "sizes": [
             [
                728,
@@ -185,88 +185,7 @@
       },
       "rtmp": null,
       "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/hamiltonft/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Hoover",
-      "id": "hoover",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Hoover SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Hoover SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/hoover",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/Galleria/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Jasper",
-      "id": "jasper",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Jasper SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Jasper SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/jasper",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/Jasper/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "McWane",
-      "id": "mcwane",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/mcwane",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/mcwane/mcwane.jpg",
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/jasperaviation/image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -321,87 +240,6 @@
       "rtmp": null,
       "hls": null,
       "image": "//www.gowbrc.com/wbrc/weather/webcams/oneonta/oneonta.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Tuscaloosa-W&W",
-      "id": "tuscaloosa-wandw",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Tuscaloosa - Woods & Water SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Tuscaloosa - Woods & Water SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/tuscaloosa-wandw",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/tuscaloosa/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Downtown Birmingham",
-      "id": "downtown-birmingham",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/downtown-birmingham",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/downtownbham/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Birmingham Airport",
-      "id": "birmingham-airport",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/birmingham-airport",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/airport/image.jpg",
       "aspectRatio": "16:9"
    }
 ]
