@@ -2,7 +2,7 @@
 	{
 		"title": "Forrest General",
 		"id": "forrest-general",
-		"sponsor": null,
+		"sponsor": "Alfa",
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=HTTSB",
@@ -144,5 +144,28 @@
 		"hls": null,
 		"image": "//webpubcontent.raycommedia.com/wdam/CU_SKYCAM01.jpg",
 		"aspectRatio": "16x9"
+	},
+	{
+		"title": "Laurel Ford",
+		"id": "laurel-ford",
+		"sponsor": "Alfa",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=LRLFD",
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/radar/laurel-ford",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/KOK2RL5O3RFMBPAW4III4F3FL4.png"
 	}
 ]
