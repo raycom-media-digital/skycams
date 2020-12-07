@@ -167,5 +167,28 @@
 			]
 		},
 		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/KOK2RL5O3RFMBPAW4III4F3FL4.png"
+	},
+	{
+		"title": "Circle-C Tractor",
+		"id": "circle-c-tractor",
+		"sponsor": "Alfa",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=CCTMS ",
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/radar/circle-c-tractor",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/WTG53DPOZRAKNPKAJ2F7JRW3H4.png"
 	}
 ]
