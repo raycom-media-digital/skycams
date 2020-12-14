@@ -46,29 +46,6 @@
 		"image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LBY43DP5LRA2HNFTWFISOFDQPY.jpg"
 	},
 	{
-		"title": "Mack Grubbs",
-		"id": "mack-grubbs",
-		"sponsor": "Alfa",
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"destinationUri": "//weather.weatherbug.com/weather-camera/?cam=CLMBM",
-		"includeAd": true,
-		"ad": {
-			"target": "wdam/web/weather/radar/mack-grubbs",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"image": "//arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/TE7FBTZY2NEXXABXU5RKSRLRWQ.jpg"
-	},
-	{
 		"title": "Petro Nissan",
 		"id": "petro-nissan",
 		"sponsor": "Alfa",
