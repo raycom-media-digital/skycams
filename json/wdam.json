@@ -124,7 +124,7 @@
 		"sponsor": "Alfa",
 		"sponsorImage": null,
 		"sponsorBodyText": null,
-		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=CCTMS ",
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=CCTMS",
 		"includeAd": true,
 		"ad": {
 			"target": "wdam/web/weather/radar/circle-c-tractor",
@@ -140,5 +140,28 @@
 			]
 		},
 		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/WTG53DPOZRAKNPKAJ2F7JRW3H4.png"
+	},
+	{
+		"title": "Walt Massey Ford",
+		"id": "walt-massey-ford",
+		"sponsor": "Alfa",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=CLMBM",
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/radar/walt-massey-ford",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/7CIOHH3LKFD5VHEG4USAG7YSJA.png"
 	}
 ]
