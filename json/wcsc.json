@@ -26,5 +26,89 @@
 		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=60130c1975f1d\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
 		"image": "//s6.ipcamlive.com/streams/06b0jeyw34hdqsa8e/snapshot.jpg",
 		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Home Telecom Nexton Cam",
+		"id": "nexton-cam",
+		"type": "htmlEmbed",
+		"sponsor": "Home Telecom",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station34/nexton-cam",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": "http://s7.ipcamlive.com/streams/07km1gpd9ua0pqbnf/stream.m3u8",
+		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5f513a903749e\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
+		"image": "//s7.ipcamlive.com/streams/07km1gpd9ua0pqbnf/snapshot.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Old Santee Canal Park Cam",
+		"id": "old-santee-canal-cam",
+		"type": "htmlEmbed",
+		"sponsor": "Santee Cooper",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station34/old-santee-canal-cam",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": "http://s36.ipcamlive.com/streams/24atczoci2jwjmduh/stream.m3u8",
+		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5f513e586ade2\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
+		"image": "//s36.ipcamlive.com/streams/24atczoci2jwjmduh/snapshot.jpg",
+		"aspectRatio": "16:9"
+	},
+	{
+		"title": "Holiday Inn Cam",
+		"id": "holiday-inn-cam",
+		"type": "htmlEmbed",
+		"sponsor": null,
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"cameraBodyText": null,
+		"includeAd": true,
+		"ad": {
+			"target": "wcsc/web/station34/holiday-inn-cam",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"rtmp": null,
+		"hls": "http://s23.ipcamlive.com/streams/17gqbrhivwlq4kjz3/stream.m3u8",
+		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=601430edc2772\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
+		"image": "//s23.ipcamlive.com/streams/17gqbrhivwlq4kjz3/snapshot.jpg",
+		"aspectRatio": "16:9"
 	}
 ]
