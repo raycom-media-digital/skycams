@@ -1,15 +1,15 @@
 [
 	{
-		"title": "Live 5 MUSC Rutledge Tower",
-		"id": "live-5-musc-rutledge-tower",
-		"type": "image",
-		"sponsor": null,
+		"title": "Live 5 Studios Cam",
+		"id": "studios-cam",
+		"type": "htmlEmbed",
+		"sponsor": "Anastopoulo Law Firm",
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"cameraBodyText": null,
 		"includeAd": true,
 		"ad": {
-			"target": "wcsc/web/station29/live-5-musc-rutledge-tower",
+			"target": "wcsc/web/station34/studios-cam",
 			"sizes": [
 				[
 					728,
@@ -22,170 +22,9 @@
 			]
 		},
 		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Rutledge/WCSCRutledge.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Charleston Harbor Fish House",
-		"id": "live-5-charleston-harbor-fish-house",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-charleston-harbor-fish-house",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/FishHouse/WCSCFishHouse.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Holiday Inn",
-		"id": "live-5-holiday-inn",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-holiday-inn",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/HolidayInn/WCSCHolidayInn.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Gerald's Tires SC Aquarium",
-		"id": "live-5-gerald's-tires-sc-aquarium",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-gerald's-tires-sc-aquarium",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Aquarium/WCSCAquarium.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Santee Cooper",
-		"id": "live-5-santee-cooper",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-santee-cooper",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/SanteeCooper/WCSCSanteeCooper.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Ingevity",
-		"id": "live-5-ingevity",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-ingevity",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/Ingevity/WCSCIngevity.jpg",
-		"aspectRatio": "16:9"
-	},
-	{
-		"title": "Live 5 Home Telecom skycam at Volvo Car Stadium",
-		"id": "live-5-volvo-car-stadium",
-		"type": "image",
-		"sponsor": null,
-		"sponsorImage": null,
-		"sponsorBodyText": null,
-		"cameraBodyText": null,
-		"includeAd": true,
-		"ad": {
-			"target": "wcsc/web/station29/live-5-volvo-car-stadium",
-			"sizes": [
-				[
-					728,
-					90
-				],
-				[
-					320,
-					50
-				]
-			]
-		},
-		"rtmp": null,
-		"hls": null,
-		"image": "//webpubcontent.raycommedia.com/wcsc/HD%20Cameras/VolvoStadium/WCSCVolvoStadium.jpg",
+		"hls": "https://s6.ipcamlive.com/streams/06b0jeyw34hdqsa8e/stream.m3u8",
+		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=60130c1975f1d\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
+		"image": "//s6.ipcamlive.com/streams/06b0jeyw34hdqsa8e/snapshot.jpg",
 		"aspectRatio": "16:9"
 	}
 ]
