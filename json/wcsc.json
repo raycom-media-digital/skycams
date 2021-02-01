@@ -22,7 +22,7 @@
 			]
 		},
 		"rtmp": null,
-		"hls": "https://s6.ipcamlive.com/streams/06b0jeyw34hdqsa8e/stream.m3u8",
+		"hls": null,
 		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=60130c1975f1d\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
 		"image": "//g1.ipcamlive.com/player/snapshot.php?alias=60130c1975f1d",
 		"aspectRatio": "16:9"
@@ -50,7 +50,7 @@
 			]
 		},
 		"rtmp": null,
-		"hls": "http://s7.ipcamlive.com/streams/07km1gpd9ua0pqbnf/stream.m3u8",
+		"hls": null,
 		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5f513a903749e\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
 		"image": "//g1.ipcamlive.com/player/snapshot.php?alias=5f513a903749e",
 		"aspectRatio": "16:9"
@@ -78,7 +78,7 @@
 			]
 		},
 		"rtmp": null,
-		"hls": "http://s36.ipcamlive.com/streams/24atczoci2jwjmduh/stream.m3u8",
+		"hls": null,
 		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=5f513e586ade2\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
 		"image": "//g1.ipcamlive.com/player/snapshot.php?alias=5f513e586ade2",
 		"aspectRatio": "16:9"
@@ -87,7 +87,7 @@
 		"title": "Holiday Inn Cam",
 		"id": "holiday-inn-cam",
 		"type": "htmlEmbed",
-		"sponsor": null,
+		"sponsor": "Holiday Inn",
 		"sponsorImage": null,
 		"sponsorBodyText": null,
 		"cameraBodyText": null,
@@ -106,7 +106,7 @@
 			]
 		},
 		"rtmp": null,
-		"hls": "http://s23.ipcamlive.com/streams/17gqbrhivwlq4kjz3/stream.m3u8",
+		"hls": null,
 		"html": "<div id=\"WMvideoplayer\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe style=\"position: absolute; top: 0px; left: 0px;\" src=\"//g1.ipcamlive.com/player/player.php?alias=601430edc2772\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen>Loading Player...</iframe>\n</div>",
 		"image": "//g1.ipcamlive.com/player/snapshot.php?alias=601430edc2772",
 		"aspectRatio": "16:9"
