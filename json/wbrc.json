@@ -54,6 +54,33 @@
       "aspectRatio": "16:9"
    },
    {
+      "title": "CraneWorks Birmingham",
+      "id": "craneworks",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbrc/web/weather-cams/craneworks",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/craneworks/image.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
       "title": "Downtown Birmingham",
       "id": "downtown-birmingham",
       "type": "image",
@@ -267,6 +294,33 @@
       "rtmp": null,
       "hls": null,
       "image": "//www.gowbrc.com/wbrc/weather/webcams/oneonta/oneonta.jpg",
+      "aspectRatio": "16:9"
+   },
+   {
+      "title": "Springville",
+      "id": "springville",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbrc/web/weather-cams/springville",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/springville/springville.jpg",
       "aspectRatio": "16:9"
    }
 ]
