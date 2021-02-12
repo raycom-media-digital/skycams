@@ -171,7 +171,7 @@
         "title":"Westside Evansville",
         "id":"westside-evansville",
         "type":"video",
-        "sponsor":"University of Southern Indiana",
+        "sponsor":null,
         "sponsorImage":null,
         "sponsorBodyText":null,
         "cameraBodyText":null,
