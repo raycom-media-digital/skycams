@@ -322,5 +322,32 @@
       "hls": null,
       "image": "//www.gowbrc.com/wbrc/weather/webcams/springville/springville.jpg",
       "aspectRatio": "16:9"
+   },
+   {
+      "title": "Hamilton Fire Tower",
+      "id": "hamilton-fire-tower",
+      "type": "image",
+      "sponsor": null,
+      "sponsorImage": null,
+      "sponsorBodyText": null,
+      "cameraBodyText": null,
+      "includeAd": true,
+      "ad": {
+         "target": "wbrc/web/weather-cams/hamilton-fire-tower",
+         "sizes": [
+            [
+               728,
+               90
+            ],
+            [
+               320,
+               50
+            ]
+         ]
+      },
+      "rtmp": null,
+      "hls": null,
+      "image": "//www.gowbrc.com/wbrc/weather/webcams/hamiltonft/image.jpg",
+      "aspectRatio": "16:9"
    }
 ]
