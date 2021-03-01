@@ -24,7 +24,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div class=\"WMplayerdiv\" style=\"position: relative; overflow: hidden; padding-top: 60%;\">\n\t<iframe src=\"//api.wetmet.net/widgets/image/frame.php?uid=e2c9c7ef945afb690a6d4bd0c8fd164a\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" style=\"position: absolute;top: 0; left: 0;\">Loading Player...</iframe>\n</div>",
-      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/wis%20tower/wistower01.jpg",
+      "image": "//api.wetmet.net/widgets/image/frame.php?uid=e2c9c7ef945afb690a6d4bd0c8fd164a&type=image&format=image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -52,7 +52,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div class=\"WMplayerdiv\" style=\"position: relative; overflow: hidden; padding-top:60%;\">\n\t<iframe src=\"//api.wetmet.net/widgets/image/frame.php?uid=c87b57add77ce802b0407bb158045c82\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" style=\"position: absolute;top: 0; left: 0;\">Loading Player...</iframe>\n</div>",
-      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/lakemurray/lakemurray01.jpg",
+      "image": "//api.wetmet.net/widgets/image/frame.php?uid=c87b57add77ce802b0407bb158045c82&type=image&format=image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -80,7 +80,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div class=\"WMplayerdiv\" style=\"position: relative; overflow: hidden; padding-top:60%;\">\n\t<iframe src=\"//api.wetmet.net/widgets/image/frame.php?uid=e8f92149da56668d8b473b039a17379b\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" style=\"position: absolute;top: 0; left: 0;\">Loading Player...</iframe>\n</div>",
-      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/orangeburg/orangeburg01.jpg",
+      "image": "//api.wetmet.net/widgets/image/frame.php?uid=e8f92149da56668d8b473b039a17379b&type=image&format=image.jpg",
       "aspectRatio": "16:9"
    },
    {
@@ -108,7 +108,7 @@
       "rtmp": null,
       "hls": null,
       "html": "<div class=\"WMplayerdiv\" style=\"position: relative; overflow: hidden; padding-top:60%;\">\n\t<iframe src=\"//api.wetmet.net/widgets/image/frame.php?uid=57e87efad91a572c34fef2aa917b30be\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" style=\"position: absolute;top: 0; left: 0;\">Loading Player...</iframe>\n</div>",
-      "image": "//webpubcontent.raycommedia.com/wistv/weathercameras/sumter/sumter01.jpg",
+      "image": "//api.wetmet.net/widgets/image/frame.php?uid=57e87efad91a572c34fef2aa917b30be&type=image&format=image.jpg",
       "aspectRatio": "16:9"
    }
 ]
