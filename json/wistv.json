@@ -33,8 +33,8 @@
       "type": "htmlEmbed",
       "sponsor": "&nbsp;",
       "sponsorImage": null,
-      "sponsorBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a &nbsp; residential community in Lexington, SC. The camera points west-northwest.</p>",
-      "cameraBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a &nbsp; residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "sponsorBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
+      "cameraBodyText": "<p>The Lake Murray camera is located at Liberty at the Lake, a Great Southern Homes residential community in Lexington, SC. The camera points west-northwest.</p>",
       "includeAd": true,
       "ad": {
          "target": "wistv/web/weather/cams/lake-murray",
