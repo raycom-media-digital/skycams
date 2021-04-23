@@ -162,33 +162,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "Grandview",
-      "id": "grandview",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Grandview SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Grandview SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/grandview",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/grandview/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "Chelsea",
       "id": "chelsea",
       "type": "image",
@@ -267,60 +240,6 @@
       "rtmp": null,
       "hls": null,
       "image": "//www.gowbrc.com/wbrc/weather/webcams/montevallo/image.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Oneonta",
-      "id": "oneonta",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 Oneonta SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 Oneonta SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/oneonta",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/oneonta/oneonta.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
-      "title": "Springville",
-      "id": "springville",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": null,
-      "cameraBodyText": null,
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/springville",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/springville/springville.jpg",
       "aspectRatio": "16:9"
    },
    {
