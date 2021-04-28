@@ -135,33 +135,6 @@
       "aspectRatio": "16:9"
    },
    {
-      "title": "McWane",
-      "id": "mcwane",
-      "type": "image",
-      "sponsor": null,
-      "sponsorImage": null,
-      "sponsorBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
-      "cameraBodyText": "<p>Current WBRC FOX6 McWane SkyVision camera</p>",
-      "includeAd": true,
-      "ad": {
-         "target": "wbrc/web/weather-cams/mcwane",
-         "sizes": [
-            [
-               728,
-               90
-            ],
-            [
-               320,
-               50
-            ]
-         ]
-      },
-      "rtmp": null,
-      "hls": null,
-      "image": "//www.gowbrc.com/wbrc/weather/webcams/mcwane/mcwane.jpg",
-      "aspectRatio": "16:9"
-   },
-   {
       "title": "Chelsea",
       "id": "chelsea",
       "type": "image",
