@@ -163,5 +163,28 @@
 			]
 		},
 		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/7CIOHH3LKFD5VHEG4USAG7YSJA.png"
+	},
+	{
+		"title": "Magnolia State Bank",
+		"id": "magnolia-state-bank",
+		"sponsor": "Alfa",
+		"sponsorImage": null,
+		"sponsorBodyText": null,
+		"destinationUri": "//www.weatherbug.com/weather-camera/?cam=MSBPL",
+		"includeAd": true,
+		"ad": {
+			"target": "wdam/web/weather/radar/magnolia-state-bank",
+			"sizes": [
+				[
+					728,
+					90
+				],
+				[
+					320,
+					50
+				]
+			]
+		},
+		"image": "//cloudfront-us-east-1.images.arcpublishing.com/raycom/YAUDQL7ZLRA37A7LWT5AOZLQ2E.png"
 	}
 ]
